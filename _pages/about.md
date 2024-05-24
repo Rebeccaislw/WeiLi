@@ -13,13 +13,13 @@ I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-w
 
 You can find my CV here: [Wei Li's CV] (../assets/CV.pdf)
 
-Address: De Boelelaan 1105, 1081 HV Amsterdam, Netherlands 
+- Address: De Boelelaan 1105, 1081 HV Amsterdam, Netherlands 
 
-Date of Birth: 2 June 1996
+- Date of Birth: 2 June 1996
 
-Email: w.li2@vu.nl
+- Email: w.li2@vu.nl
 
-Phone: +31 6 30484769
+- Phone: +31 6 30484769
 
 Education
 ======
@@ -75,9 +75,9 @@ Teaching Experiences
 
 Skills
 ------
-Technical: STATA, R, Python, ArcGIS, SPSS, Eviews
+- Technical: ArcGIS, STATA, R, Python, SPSS, Eviews
 
-Language: Chinese (Native), English (Proficient), Dutch (Basic)
+- Language: Chinese (Native), English (Proficient), Dutch (Basic)
 
 
 Awards and Grants
