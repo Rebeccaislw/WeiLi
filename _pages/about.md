@@ -9,7 +9,7 @@ redirect_from:
 
 I am a PhD candidate at School of Businiess and Economics (SBE) at Vrije Uiversiteit Amsterdam. My research itenrest include Water-Energy-Food (WEF) nexus.
 
-You can find my CV here: (../assets/Curriculum_Vitae.pdf)
+You can find my CV here: (../assets/CV.pdf)
 
 A data-driven personal website
 ======
