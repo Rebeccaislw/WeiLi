@@ -9,29 +9,32 @@ redirect_from:
 
 I am a PhD candidate at School of Businiess and Economics (SBE) at Vrije Uiversiteit Amsterdam. My research itenrest include Water-Energy-Food (WEF) nexus.
 
+I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) from Faculty of Science, Vrije Universiteit Amsterdam and [Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) from School of Business and Economics, Vrije Universiteit Amsterdam.
+
 You can find my CV here: [Wei Li's CV] (../assets/CV.pdf)
+
 Address: De Boelelaan 1105, 1081 HV Amsterdam, Netherlands 
+
 Date of Birth: 2 June 1996
-Email: w.li2@vu.nl 
+
+Email: w.li2@vu.nl
+
 Phone: +31 6 30484769
 
 Education
 ======
 Sep 2021-Expected, Aug 2025, Ph.D., Vrije Universiteit Amsterdam, Netherlands
 Development Economics
+
 Thesis Title: “Water-Energy-Food nexus in Beijing-Tianjin-Hebei region of China”
 
-Supervisor:
-Philip Ward, Faculty of Science, Vrije Universiteit Amsterdam, philip.ward@vu.nl 
 
-Lia van Wesenbeeck, School of Business and Economics, Vrije Universiteit Amsterdam, c.f.a.van.wesenbeeck@vu.nl
 
-Sep 2018-Jul 2021 M.A., Outstanding graduate, Renmin University of China, China
-Agricultural Economics and Management (GPA: 3.89/4, rank 1/53)
+Sep 2018-Jul 2021 M.A., Outstanding graduate, Renmin University of China, China Agricultural Economics and Management (GPA: 3.89/4, rank 1/53)
+
 Supervisor: Xiaohui Tian
 
-Sep 2014-Jul 2018 B.A., Outstanding graduate, Northwest Agricultural & Forestry University, China
-Economics and Management of Agriculture & Forestry (GPA: 3.78/4, rank 1/67)
+Sep 2014-Jul 2018 B.A., Outstanding graduate, Northwest Agricultural & Forestry University, China Economics and Management of Agriculture & Forestry (GPA: 3.78/4, rank 1/67)
 
 Research Field
 ======
