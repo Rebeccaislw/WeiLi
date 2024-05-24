@@ -25,11 +25,11 @@ Education
 ======
 - Sep 2021-Expected, Aug 2025, Ph.D. in Economics, Vrije Universiteit Amsterdam, Netherlands
 
-Thesis Title: “Water-Energy-Food nexus in Beijing-Tianjin-Hebei region of China”
+  - Thesis Title: “Water-Energy-Food nexus in Beijing-Tianjin-Hebei region of China”
 
 - Sep 2018-Jul 2021 M.A., Outstanding graduate, Renmin University of China, China Agricultural Economics and Management (GPA: 3.89/4, rank 1/53)
 
-Supervisor: Xiaohui Tian
+  - Supervisor: Xiaohui Tian
 
 - Sep 2014-Jul 2018 B.A., Outstanding graduate, Northwest Agricultural & Forestry University, China Economics and Management of Agriculture & Forestry (GPA: 3.78/4, rank 1/67)
 
