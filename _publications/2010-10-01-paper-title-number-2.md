@@ -1,13 +1,17 @@
 ---
-title: "Paper Title Number 2"
+title: "The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy"
+
+Abstract: Based on China’s agricultural production data at the county level and satellite remote sensing data, from the perspective of the implementation of the agricultural machinery purchase subsidy policy, this article takes the quasi-natural experimental characteristics of the policy as exogenous shocks of agricultural mechanization and uses the Difference-in-differences (DID) approach to measure the impacts of agricultural machinery purchase subsidy policy on polluting agricultural production behaviors and its mechanisms. The results show that the agricultural machinery purchase subsidy policy has significantly improved the level of agricultural mechanization, and the impacts of the policy on polluting agricultural production behaviors are different and with a certain lag. Specifically, the policy has significantly reduced the use of plastic film in the current year and the next year and increased the number of straw-burning points in the next year after the policy started but had no significant impacts on the use of chemical fertilizer and pesticide. The mechanism analysis shows that the policy has changed the way farmers used polluting inputs and treated agricultural production waste by expanding the proportion of grain sown area and promoting the outflow of agricultural labor force, which has a corresponding impact on the ecological environment.
+
+Keywords: Agricultural Mechanization; Production Behavior; Crop Structure; Labor Mobility; Difference-in-differences
+
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+venue: 'Chinese Rural Economy (中国农村经济)'
+paperurl: '[http://academicpages.github.io/files/paper2.pdf](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007)'
+citation: 'Xiaohui Tian, Wei Li, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109.'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
