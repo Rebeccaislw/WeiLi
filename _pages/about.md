@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 
-body {
-  font-family: 'Times new roman', sans-serif; /* 设置默认字体 */
-  }
 ---
 
 I am a Ph.D. candidate in Economics at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
