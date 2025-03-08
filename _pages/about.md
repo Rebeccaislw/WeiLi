@@ -23,7 +23,7 @@ For more details, you can find my CV here: [WeiLi's CV](../assets/CV.pdf)
 Feel free to reach out via email: w.li2@vu.nl
 
 Education
-======
+====
 - Sep 2021-Expected, Aug 2025, Ph.D. in Economics, Vrije Universiteit Amsterdam, Netherlands
   - Thesis Title: “？？？？？The Water-Energy-Food nexus in Beijing-Tianjin-Hebei region of China”
 
