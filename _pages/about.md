@@ -15,7 +15,7 @@ My research lies at the intersection of Environmental Economics, Agricultural Ec
 
 I am on the 2024-2025 Job Market.
 
-I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Prof.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
+I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Prof.Lia van Wesenbeeck】(https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
 
 For more details, you can find my CV here: [WeiLi's CV](../assets/CV.pdf)
@@ -48,10 +48,7 @@ Water-Energy-Food Nexus, Applied Econometrics, Resource Economics, Agricultural 
 
  -->
 
-<!-- Conference presentation
-======
 
- -->
 Publications
 ======
 **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
@@ -95,15 +92,19 @@ Research Experiences
     - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
 
+<!-- Conference presentation
+======
+
+ -->
 Teaching & Supervising Experiences
 ======
--02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)(Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
+-02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
     
 - 04/2023-07/2023, Bachelor Thesis Supervision, student: Janina Krupski, thesis title: _China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?_
 
-- 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/)(Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
+- 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
 
-- 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)(Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
+- 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
 
 - 03/2021-08/2021, _Principles of Economics_(Undergraduate Course), Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
@@ -112,7 +113,7 @@ Skills
 - Computer Skills: ArcGIS, STATA, R, Python, SPSS, Eviews
 - Languages: Chinese (Native), English (Proficient), Dutch (A2) 
 
-Awards and Grants
+Awards & Grants
 ======
 - 07/2022-07/2025, Erasmus+ Mobility Grant-KA171 (€8,760)
 
