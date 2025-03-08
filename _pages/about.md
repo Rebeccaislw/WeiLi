@@ -41,7 +41,7 @@ Education
 
 Research Field
 ======
-Water-Energy-Food Nexus, Applied Econometrics, Resource Economics, Agricultural Economics, Macroeconomics? OR micro?
+Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Applied Econometrics
 
 <!-- Job Market Paper
 ======
@@ -92,10 +92,10 @@ Research Experiences
     - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
 
-<!-- Conference presentation
+Conference presentation
 ======
+- 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
 
- -->
 Teaching & Supervising Experiences
 ======
 -02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
