@@ -1,14 +1,16 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
+body {
+  font-family: 'Times new roman', sans-serif; /* 设置默认字体 */
+  }
 ---
 
-About Me
-======
 I am a Ph.D. candidate in Economics at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
 
 My research lies at the intersection of Environmental Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. I am passionate about understanding how resource interdependencies shape sustainable development and policy decisions.
