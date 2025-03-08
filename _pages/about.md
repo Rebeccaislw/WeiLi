@@ -43,11 +43,15 @@ Research Field
 ======
 Water-Energy-Food Nexus, Applied Econometrics, Resource Economics, Agricultural Economics, Macroeconomics? OR micro?
 
-Job Market Paper
+<!-- Job Market Paper
 ======
 
+ -->
 
+<!-- Conference presentation
+======
 
+ -->
 Publications
 ======
 **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
@@ -61,69 +65,67 @@ Publications
 
   - **Keywords**: Water-energy-food (WEF) nexus; Resource interaction; Nexus theory; Nexus application; System approach; Sustainable development goals (SDGs)
 
-- Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The full text is in Chinese with an English abstract)
+- Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract) 
   - **Abstract**: Based on China’s agricultural production data at the county level and satellite remote sensing data, from the perspective of the implementation of the agricultural machinery purchase subsidy policy, this article takes the quasi-natural experimental characteristics of the policy as exogenous shocks of agricultural mechanization and uses the Difference-in-differences (DID) approach to measure the impacts of agricultural machinery purchase subsidy policy on polluting agricultural production behaviors and its mechanisms. The results show that the agricultural machinery purchase subsidy policy has significantly improved the level of agricultural mechanization, and the impacts of the policy on polluting agricultural production behaviors are different and with a certain lag. Specifically, the policy has significantly reduced the use of plastic film in the current year and the next year and increased the number of straw-burning points in the next year after the policy started but had no significant impacts on the use of chemical fertilizer and pesticide. The mechanism analysis shows that the policy has changed the way farmers used polluting inputs and treated agricultural production waste by expanding the proportion of grain sown area and promoting the outflow of agricultural labor force, which has a corresponding impact on the ecological environment.
   - **Keywords**: Agricultural Mechanization; Production Behavior; Crop Structure; Labor Mobility; Difference-in-differences
 
-Working papers
+Working Papers
 ======
-....
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an Ideal Theoretical Model for the Water-Energy-Food Nexus, plan to submit to Journal of Environmental Economics and Management, 2025
+- **Abstract**:This study introduces a theoretical model for the water-energy-food (WEF) nexus, aiming to simultaneously fulfil six objectives: ensuring resource security; promoting resource circularity; enabling transferability across spatial and temporal scales and geographic scopes; maintaining empirical feasibility; integrating economic, environmental, and societal considerations; and facilitating comprehensive and equal identification of resource interactions. The model builds on an established regional water economy model for the Jordan River Basin. Through stepwise adjustments, we demonstrate that the enhanced model successfully achieves all six objectives. Additionally, this model innovatively incorporates the welfare of animals and potentially plants, moving beyond a human-centered perspective. This pioneering model addresses gaps in the WEF nexus research and lays the groundwork for future investigations into human-nature interactions in the Anthropocene.
+ - **Keywords**: Water-energy-food nexus; Resource interaction; Theoretical model; Resource economics; Resource circularity
 
-Research experiences
+Research Experiences
 ======
-- Aug 2023-Sep 2023	Project：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
-  - Founder: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
-    - Coordinate with local village cadres as one of team leaders
-    - Participate in the household survey of seven villages in Hebei Province, China
-   
-- Jan 2019-Feb 2021	Project：Short-term Forecast and Analysis of Agricultural Product Market Prices
-  - Founder: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
-    - Use the time series model to forecast the major agricultural products’ price in China
-    - Develope the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
-    - Write four semi-annual reports
+- 01/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
+  -**Founder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
+    - Coordinated with local village cadres as one of team leaders
+    - Participated in the household survey of seven villages in Hebei Province, China
+
+- 01/2019-02/2021, **Project**：Short-term Forecast and Analysis of Agricultural Product Market Prices
+  -**Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
+    - Used the time series model to forecast the major agricultural products’ price in China
+    - Developed the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
+    - Wrote four semi-annual reports
     - The report of the first half of 2020 was approved by the Deputy Secretary-General of the National Development and Reform Commission of China
 
-- Feb 2019-Jan 2020	Project: Evaluation of Agricultural Modernization Level of National Modern Agricultural Demonstration Zone
-  - Founder: Ministry of Agriculture and Rural Affairs of the People’s Republic of China 
-    - Participate in household survey, enterprise interview, government discussion in Shanghai, Jiangsu province and Anhui province of China
-    - Calculate the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
-    - Draft three comprehensive evaluation reports
+- 02/2019-01/2020, **Project**: Evaluation of Agricultural Modernization Level of National Modern Agricultural Demonstration Zone
+  - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China 
+    - Participated in household survey, enterprise interview, government discussion in Shanghai, Jiangsu province and Anhui province of China
+    - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
+    - Drafted three comprehensive evaluation reports
 
-Teaching Experiences
-------
-- Feb 2024-May 2024 Advanced Macroeconomics, Amsterdam University College, lecturer teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
-  - feedback/evaluation from students: 加到具体的页面！！！
+Teaching & Supervising Experiences
+======
+-02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)(Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
     
-- Apr 2023-Jul 2023 Bachelor thesis supervision for Janina Krupski, China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?
+- 04/2023-07/2023, Bachelor Thesis Supervision, student: Janina Krupski, thesis title: _China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?_
 
-- Feb 2023-Mar 2023 Macroeconomics I, Vrije Universiteit Amsterdam, teaching assistant for [Prof. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
+- 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/)(Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
 
-- Sep 2022-Oct 2022 Economics Challenges, Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
-  - feedback/evaluation from students: 加到具体的页面！！！
-  - 
-- Mar 2021-Aug 2021 Principles of Economics, Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
+- 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)(Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
+
+- 03/2021-08/2021, _Principles of Economics_(Undergraduate Course), Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
 Skills
-------
-- Technical: ArcGIS, GAMS, STATA, R, Python, SPSS, Eviews
-
-- Language: Chinese (Native), English (Proficient), Dutch (Basic)
-
+======
+- Computer Skills: ArcGIS, STATA, R, Python, SPSS, Eviews
+- Languages: Chinese (Native), English (Proficient), Dutch (A2) 
 
 Awards and Grants
-------
-- July 2022-July 2025, Erasmus+ Mobility Grant-KA171
+======
+- 07/2022-07/2025, Erasmus+ Mobility Grant-KA171 (€8,760)
 
-- Sep 2021-Aug 2025, Government-sponsored Oversea Education by China Scholarship Council
+-09/2021-08/2025, Government-sponsored Oversea Education by China Scholarship Council
 
-- Sep 2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum hosted by the editorial departments of China Rural Economy & China Rural Observation
+- 09/2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum hosted by the editorial departments of China Rural Economy & China Rural Observation
 
-- Jun 2018, Honor Thesis in Management at Northwest Agriculture & Forestry University (awarded to top 100 theses from the whole university)
+- 06/2018, Honor Thesis in Management at Northwest Agriculture & Forestry University (awarded to top 100 theses from the whole university) 
 
-- Nov 2017, National Outstanding Forestry Graduates in China (awarded to top 40 graduates nationwide)
+- 11/2017, National Outstanding Forestry Graduates in China (awarded to top 40 graduates nationwide)
 
-- Nov 2017, National Scholarship of China (awarded to the top 3%)
+- 11/2017, National Scholarship of China (awarded to the top 3%)
 
-- Nov 2016, National Scholarship of China (awarded to the top 3%)
+- 11/2016, National Scholarship of China (awarded to the top 3%)
 
 
