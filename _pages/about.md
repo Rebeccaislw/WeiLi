@@ -7,19 +7,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Economics from the School of Businiess and Economics (SBE) at Vrije Uiversiteit Amsterdam. My research interests include Water-Energy-Food (WEF) nexus,,,,,,,. 
+About Me
+======
+I am a Ph.D. candidate in Economics at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
 
-I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) from Faculty of Science, Vrije Universiteit Amsterdam and [Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) from School of Business and Economics, Vrije Universiteit Amsterdam.
+My research lies at the intersection of Environmental Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. I am passionate about understanding how resource interdependencies shape sustainable development and policy decisions.
 
 I am on the 2024-2025 Job Market.
 
-You can find my CV here: [WeiLi's CV](../assets/CV.pdf)
+I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Prof.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
-- Address: De Boelelaan 1105, 1081 HV Amsterdam, Netherlands 
 
-- Email: w.li2@vu.nl
+For more details, you can find my CV here: [WeiLi's CV](../assets/CV.pdf)
 
-- Phone: +31 6 30484769
+Feel free to reach out via email: w.li2@vu.nl
 
 Education
 ======
