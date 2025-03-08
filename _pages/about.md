@@ -23,7 +23,7 @@ For more details, you can find my CV here: [WeiLi's CV](../assets/CV.pdf)
 Feel free to reach out via email: w.li2@vu.nl
 
 Education
-====
+======
 - 09/2021-present, Ph.D. in Economics, Vrije Universiteit Amsterdam, the Netherlands
   - Thesis Title: “The Water-Energy-Food Nexus in Beijing-Tianjin-Hebei Region of China?”
 
@@ -44,28 +44,33 @@ Research Field
 Water-Energy-Food Nexus, Applied Econometrics, Resource Economics, Agricultural Economics, Macroeconomics? OR micro?
 
 Job Market Paper
-------
-...... 
+======
+
 
 
 Publications
-------
+======
+**Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
+  - **Abstract**: The water-energy-food (WEF) nexus exemplifies the holistic, integrated, and interdisciplinary system approach, emphasizing mutual interactions between water, energy, and food resources. This study presents the first systematic review that critically evaluates the past progress of WEF nexus research from the evidence-based lens of resource interactions, in terms of quantifying the types and the number of interactions studied. Using a novel classification, this review first classifies 834 WEF nexus interaction studies into four classes based on two axes: (1) The type of study (theoretical or empirical) and (2) The extent of resource interactions examined (all six interactions as a 'full' WEF nexus study or fewer interactions as a 'partial' WEF nexus study). Despite the proliferation of WEF nexus studies since 2011, no significant progress has been made towards including more resource interactions over time in either theoretical studies or empirical applications. Moreover, this review shows that: the number of resource interactions examined in empirical applications is much lower than in theoretical studies; the study of physical resource interactions remains dominant; environmental considerations are biased towards water quality and carbon emissions; and there is a misalignment between research questions and empirical methodologies. Further, this review identifies future directions and provides concrete recommendations for aligning future research to jointly achieve Sustainable Development Goals (SDGs) 2, 6, and 7.
 
-"如何加粗自己的名字，斜体”
-- Wei Li, Philip Ward and Lia van Wesenbeeck, Advances in water-energy-food nexus: a critical evaluation, under review in Renewable & Sustainable Energy Reviews, 2023
-  - Abstract （加粗）: The water-energy-food (WEF) nexus, a representative example of the holistic, integrated, and interdisciplinary system approach, has recently gained currency with academics and policymakers, due to its potential to help enhance resource security and realize global sustainable development. The essence of the WEF nexus lies in the mutual interactions between water, energy, and food resources, which are fundamental to detect trade-offs, uncover synergies and achieve integrated resource governance. To date, no studies have systematically evaluated the progress of WEF nexus research through the lens of resource interactions. This study presents a systematic review that critically evaluates the past progress of WEF nexus literature from the perspective of resource interactions. Using a novel classification, this review first classifies 781 WEF nexus interaction studies into four classes based on two axes: (1) the classification of the study (empirical application or theoretical study); and (2) whether the study examines all six resource interactions (‘full’ WEF nexus study) or fewer resource interactions (‘partial’ WEF nexus study). While WEF nexus studies have flourished since 2011, no significant progress has been made towards more resource interactions over time in both theoretical studies and empirical applications. Moreover, this study shows that: the number of resource interactions examined in empirical applications is much lower than in theoretical studies; physical resource interactions remain dominant; environmental considerations are biased towards water quality and carbon emission; and there is a misalignment between research question and empirical methodology.
-  - Keywords（加粗）: Water-energy-food nexus; Resource interaction; Nexus theory; Nexus application; System approach; Sustainable development goals
+  - **Highlights**
+     - No evident increase in the number of resource interactions studied over time.
+     - Theoretical studies include more resource interactions than empirical applications.
+     - The study of physical resource interactions remains dominant.
+     - There is a misalignment between research questions and empirical methodologies. 
 
-- Xiaohui Tian, Wei Li, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The full text is in Chinese with an English abstract)
-  - Abstract: Based on China’s agricultural production data at the county level and satellite remote sensing data, from the perspective of the implementation of the agricultural machinery purchase subsidy policy, this article takes the quasi-natural experimental characteristics of the policy as exogenous shocks of agricultural mechanization and uses the Difference-in-differences (DID) approach to measure the impacts of agricultural machinery purchase subsidy policy on polluting agricultural production behaviors and its mechanisms. The results show that the agricultural machinery purchase subsidy policy has significantly improved the level of agricultural mechanization, and the impacts of the policy on polluting agricultural production behaviors are different and with a certain lag. Specifically, the policy has significantly reduced the use of plastic film in the current year and the next year and increased the number of straw-burning points in the next year after the policy started but had no significant impacts on the use of chemical fertilizer and pesticide. The mechanism analysis shows that the policy has changed the way farmers used polluting inputs and treated agricultural production waste by expanding the proportion of grain sown area and promoting the outflow of agricultural labor force, which has a corresponding impact on the ecological environment.
-  - Keywords: Agricultural Mechanization; Production Behavior; Crop Structure; Labor Mobility; Difference-in-differences
+  - **Keywords**: Water-energy-food (WEF) nexus; Resource interaction; Nexus theory; Nexus application; System approach; Sustainable development goals (SDGs)
+
+- Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The full text is in Chinese with an English abstract)
+  - **Abstract**: Based on China’s agricultural production data at the county level and satellite remote sensing data, from the perspective of the implementation of the agricultural machinery purchase subsidy policy, this article takes the quasi-natural experimental characteristics of the policy as exogenous shocks of agricultural mechanization and uses the Difference-in-differences (DID) approach to measure the impacts of agricultural machinery purchase subsidy policy on polluting agricultural production behaviors and its mechanisms. The results show that the agricultural machinery purchase subsidy policy has significantly improved the level of agricultural mechanization, and the impacts of the policy on polluting agricultural production behaviors are different and with a certain lag. Specifically, the policy has significantly reduced the use of plastic film in the current year and the next year and increased the number of straw-burning points in the next year after the policy started but had no significant impacts on the use of chemical fertilizer and pesticide. The mechanism analysis shows that the policy has changed the way farmers used polluting inputs and treated agricultural production waste by expanding the proportion of grain sown area and promoting the outflow of agricultural labor force, which has a corresponding impact on the ecological environment.
+  - **Keywords**: Agricultural Mechanization; Production Behavior; Crop Structure; Labor Mobility; Difference-in-differences
 
 Working papers
-------
+======
 ....
 
 Research experiences
-------
+======
 - Aug 2023-Sep 2023	Project：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
   - Founder: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
     - Coordinate with local village cadres as one of team leaders
