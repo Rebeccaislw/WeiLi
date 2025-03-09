@@ -25,22 +25,23 @@ Feel free to reach out via email: w.li2@vu.nl
 
 Education
 ======
+
 - 09/2021-present, Ph.D. in Economics, Vrije Universiteit Amsterdam, the Netherlands
   - Thesis Title: “The Water-Energy-Food Nexus in Beijing-Tianjin-Hebei Region of China?”
-<br>
+
 - 09/2021-present, Research Associate, Amsterdam Centre for World Food Studies, the Netherlands
-<br>
+
 - 09/2018-07/2021, MSc in Management, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), (GPA: 3.89/4, rank 1/53)
-  -  _Outstanding graduate_
-  -  Supervisor: [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm) (School of Agriculture Economics and Rural Development, Renmin University of China)
-<br>
+  - _Outstanding graduate_
+  - Supervisor: [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm) (School of Agriculture Economics and Rural Development, Renmin University of China)
+
 - 09/2014-07/2018, BSc in Management, [Northwest Agricultural & Forestry University](https://www.nwafu.edu.cn/), China (GPA: 3.78/4, rank 1/67)
-  -  _Outstanding graduate_
-<br>
+  - _Outstanding graduate_
+
 - 07/2016-08/2016, Study Abroad Program, Michigan State University, United States of America
   - Topic: Agricultural operations and natural resource management in the US Midwest
-<br>
 
+<br>
 Research Field
 ======
 Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Applied Econometrics
@@ -57,7 +58,7 @@ Publications
 ======
 - **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
 
-- Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
+- Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
 
 <br>
 
@@ -72,12 +73,12 @@ Working Papers
 Project Experiences
 ======
 - 01/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
-  -**Founder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
+  - **Founder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
     - Coordinated with local village cadres as one of team leaders
     - Participated in the household survey of seven villages in Hebei Province, China
 
 - 01/2019-02/2021, **Project**：Short-term Forecast and Analysis of Agricultural Product Market Prices
-  -**Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
+  - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
     - Used the time series model to forecast the major agricultural products’ price in China
     - Developed the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
     - Wrote four semi-annual reports
