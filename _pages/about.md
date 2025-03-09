@@ -21,6 +21,8 @@ For more details, you can find my CV here: [WeiLi's CV](../assets/CV.pdf)
 
 Feel free to reach out via email: w.li2@vu.nl
 
+<br>
+
 Education
 ======
 - 09/2021-present, Ph.D. in Economics, Vrije Universiteit Amsterdam, the Netherlands
