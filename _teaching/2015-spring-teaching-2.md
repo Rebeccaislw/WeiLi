@@ -8,12 +8,7 @@ date: 2015-01-01
 location: "Amsterdam, the Netherlands"
 ---
 
-teaching assistant for Prof. Roland Iwan Luttens
-
-Introduction of the course:
-======
-- Course information:
--
+Course information: [here](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)
 
 Student feedbacks on my teaching
 ======
