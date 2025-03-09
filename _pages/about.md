@@ -56,7 +56,7 @@ Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Ap
 Publications
 ======
 - **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
-- 
+
 - Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
 
 <br>
@@ -75,20 +75,20 @@ Project Experiences
   -**Founder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
     - Coordinated with local village cadres as one of team leaders
     - Participated in the household survey of seven villages in Hebei Province, China
-    - 
+
 - 01/2019-02/2021, **Project**：Short-term Forecast and Analysis of Agricultural Product Market Prices
   -**Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
     - Used the time series model to forecast the major agricultural products’ price in China
     - Developed the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
     - Wrote four semi-annual reports
     - The report of the first half of 2020 was approved by the Deputy Secretary-General of the National Development and Reform Commission of China
-    - 
+
 - 02/2019-01/2020, **Project**: Evaluation of Agricultural Modernization Level of National Modern Agricultural Demonstration Zone
   - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China 
     - Participated in household survey, enterprise interview, government discussion in Shanghai, Jiangsu province and Anhui province of China
     - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
-    - 
+
 <br>
 
 Conference presentations
@@ -98,14 +98,14 @@ Conference presentations
 <br>
 Teaching & Supervising Experiences
 ======
--02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
-- 
+- 02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
+
 - 04/2023-07/2023, Bachelor Thesis Supervision, student: Janina Krupski, thesis title: _China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?_
-- 
+
 - 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
-- 
+
 - 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
-- 
+
 - 03/2021-08/2021, _Principles of Economics_(Undergraduate Course), Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
 <br>
