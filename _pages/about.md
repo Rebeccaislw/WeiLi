@@ -59,7 +59,7 @@ Publications
 ======
 - **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
 
-- Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract) 
+- Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract) 
 
 Working Papers
 ======
@@ -69,7 +69,7 @@ Working Papers
 
 <br>
 
-Research Experiences
+Project Experiences
 ======
 - 01/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
   -**Founder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
@@ -91,7 +91,7 @@ Research Experiences
 
 <br>
 
-Conference presentation
+Conference presentations
 ======
 - 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
 
@@ -120,7 +120,7 @@ Awards & Grants
 ======
 - 07/2022-07/2025, Erasmus+ Mobility Grant-KA171 (€8,760)
 
--09/2021-08/2025, Government-sponsored Oversea Education by China Scholarship Council
+- 09/2021-08/2025, Government-sponsored Oversea Education by China Scholarship Council
 
 - 09/2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum hosted by the editorial departments of China Rural Economy & China Rural Observation
 
