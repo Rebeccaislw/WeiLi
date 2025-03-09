@@ -96,8 +96,10 @@ Conference presentations
 - 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
 
 <br>
+
 Teaching & Supervising Experiences
 ======
+
 - 02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
 
 - 04/2023-07/2023, Bachelor Thesis Supervision, student: Janina Krupski, thesis title: _China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?_
