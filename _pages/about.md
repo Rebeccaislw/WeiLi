@@ -42,9 +42,9 @@ Education Backgrounds
   - Topic: Agricultural operations and natural resource management in the US Midwest
 
 <br>
+
 Research Fields
 ======
-
 Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Applied Econometrics
 
 <!-- Job Market Paper
