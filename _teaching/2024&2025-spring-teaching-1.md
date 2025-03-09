@@ -5,13 +5,15 @@ type: "Undergraduate course"
 permalink: /teaching/2024&2025-spring-teaching-1
 
 venue: "Amsterdam University College"
-date: 02/2025-05/2025 & 02/2024-05/2024
+date: 2025 & 2024
 location: "Amsterdam, the Netherlands"
 ---
 
-Course information: [here](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
-Course manual: [2024](../assets/Course_Manual_Advacedmacro2024.pdf)
-Course evaluation from students: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
+Introduction of the Course
+======
+- Course information: [here](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
+- Course manual: [2024](../assets/Course_Manual_Advacedmacro2024.pdf)
+- Course evaluation from students: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
 
 Student feedbacks on the course
 ======
