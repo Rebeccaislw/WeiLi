@@ -4,7 +4,7 @@ collection: teaching
 type: "Workshop"
 permalink: /teaching/2022-autumn-teaching-1
 venue: "Vrije Universiteit Amsterdam"
-date: 2015-01-01
+date: 2022
 location: "Amsterdam, the Netherlands"
 ---
 
