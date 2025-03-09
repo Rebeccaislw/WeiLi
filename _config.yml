@@ -37,7 +37,7 @@ author:
   orcid            : "https://orcid.org/0009-0006-4556-6253"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  "...."
+  researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
