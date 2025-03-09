@@ -18,6 +18,7 @@ For more details, you can find [here](https://studiegids.uva.nl/xmlpages/page/20
 
 Course evaluation from students, 2024
 ======
+Course manual: [2024](../assets/Course_Manual_Advacedmacro2024.pdf)
 Course evaluation: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
 
 Feedback on the course from students
