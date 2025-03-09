@@ -1,13 +1,14 @@
 ---
 title: "Economics Challenges"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 venue: "Vrije Universiteit Amsterdam"
 date: 2022
 location: "Amsterdam, the Netherlands"
 ---
 
 Course information: [here](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)
+======
 
 Student feedbacks on my teaching
 ======
