@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Wei Li/Personal Homepage"
+title                    : "Wei Li/Homepage"
 title_separator          : "-"
 name                     : &name "Wei Li"
 description              : &description "personal description"
