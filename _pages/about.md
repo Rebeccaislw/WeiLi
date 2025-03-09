@@ -27,20 +27,18 @@ Education
 ======
 - 09/2021-present, Ph.D. in Economics, Vrije Universiteit Amsterdam, the Netherlands
   - Thesis Title: “The Water-Energy-Food Nexus in Beijing-Tianjin-Hebei Region of China?”
-  - 
+<br>
 - 09/2021-present, Research Associate, Amsterdam Centre for World Food Studies, the Netherlands
-  - 
+<br>
 - 09/2018-07/2021, MSc in Management, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), (GPA: 3.89/4, rank 1/53)
   -  _Outstanding graduate_
   -  Supervisor: [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm) (School of Agriculture Economics and Rural Development, Renmin University of China)
-  - 
+<br>
 - 09/2014-07/2018, BSc in Management, [Northwest Agricultural & Forestry University](https://www.nwafu.edu.cn/), China (GPA: 3.78/4, rank 1/67)
   -  _Outstanding graduate_
-  - 
+<br>
 - 07/2016-08/2016, Study Abroad Program, Michigan State University, United States of America
-  -  Topic: Agricultural operations and natural resource management in the US Midwest
-
-
+  - Topic: Agricultural operations and natural resource management in the US Midwest
 <br>
 
 Research Field
