@@ -14,7 +14,7 @@ My research lies at the intersection of Environmental Economics, Agricultural Ec
 
 I am on the 2024-2025 Job Market.
 
-I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Prof.Lia van Wesenbeeck】(https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
+I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Prof.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
 
 For more details, you can find my CV here: [WeiLi's CV](../assets/CV.pdf)
@@ -40,6 +40,9 @@ Education
 - 07/2016-08/2016, Study Abroad Program, Michigan State University, United States of America
   -  Topic: Agricultural operations and natural resource management in the US Midwest
 
+
+<br>
+
 Research Field
 ======
 Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Applied Econometrics
@@ -49,29 +52,22 @@ Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Ap
 
  -->
 
+<br>
+
 
 Publications
 ======
-**Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
-  - **Abstract**: The water-energy-food (WEF) nexus exemplifies the holistic, integrated, and interdisciplinary system approach, emphasizing mutual interactions between water, energy, and food resources. This study presents the first systematic review that critically evaluates the past progress of WEF nexus research from the evidence-based lens of resource interactions, in terms of quantifying the types and the number of interactions studied. Using a novel classification, this review first classifies 834 WEF nexus interaction studies into four classes based on two axes: (1) The type of study (theoretical or empirical) and (2) The extent of resource interactions examined (all six interactions as a 'full' WEF nexus study or fewer interactions as a 'partial' WEF nexus study). Despite the proliferation of WEF nexus studies since 2011, no significant progress has been made towards including more resource interactions over time in either theoretical studies or empirical applications. Moreover, this review shows that: the number of resource interactions examined in empirical applications is much lower than in theoretical studies; the study of physical resource interactions remains dominant; environmental considerations are biased towards water quality and carbon emissions; and there is a misalignment between research questions and empirical methodologies. Further, this review identifies future directions and provides concrete recommendations for aligning future research to jointly achieve Sustainable Development Goals (SDGs) 2, 6, and 7.
-
-  - **Highlights**
-     - No evident increase in the number of resource interactions studied over time.
-     - Theoretical studies include more resource interactions than empirical applications.
-     - The study of physical resource interactions remains dominant.
-     - There is a misalignment between research questions and empirical methodologies. 
-
-  - **Keywords**: Water-energy-food (WEF) nexus; Resource interaction; Nexus theory; Nexus application; System approach; Sustainable development goals (SDGs)
+- **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
 
 - Xiaohui Tian, **Wei Li**, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract) 
-  - **Abstract**: Based on China’s agricultural production data at the county level and satellite remote sensing data, from the perspective of the implementation of the agricultural machinery purchase subsidy policy, this article takes the quasi-natural experimental characteristics of the policy as exogenous shocks of agricultural mechanization and uses the Difference-in-differences (DID) approach to measure the impacts of agricultural machinery purchase subsidy policy on polluting agricultural production behaviors and its mechanisms. The results show that the agricultural machinery purchase subsidy policy has significantly improved the level of agricultural mechanization, and the impacts of the policy on polluting agricultural production behaviors are different and with a certain lag. Specifically, the policy has significantly reduced the use of plastic film in the current year and the next year and increased the number of straw-burning points in the next year after the policy started but had no significant impacts on the use of chemical fertilizer and pesticide. The mechanism analysis shows that the policy has changed the way farmers used polluting inputs and treated agricultural production waste by expanding the proportion of grain sown area and promoting the outflow of agricultural labor force, which has a corresponding impact on the ecological environment.
-  - **Keywords**: Agricultural Mechanization; Production Behavior; Crop Structure; Labor Mobility; Difference-in-differences
 
 Working Papers
 ======
 - **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an Ideal Theoretical Model for the Water-Energy-Food Nexus, plan to submit to Journal of Environmental Economics and Management, 2025
 - **Abstract**:This study introduces a theoretical model for the water-energy-food (WEF) nexus, aiming to simultaneously fulfil six objectives: ensuring resource security; promoting resource circularity; enabling transferability across spatial and temporal scales and geographic scopes; maintaining empirical feasibility; integrating economic, environmental, and societal considerations; and facilitating comprehensive and equal identification of resource interactions. The model builds on an established regional water economy model for the Jordan River Basin. Through stepwise adjustments, we demonstrate that the enhanced model successfully achieves all six objectives. Additionally, this model innovatively incorporates the welfare of animals and potentially plants, moving beyond a human-centered perspective. This pioneering model addresses gaps in the WEF nexus research and lays the groundwork for future investigations into human-nature interactions in the Anthropocene.
  - **Keywords**: Water-energy-food nexus; Resource interaction; Theoretical model; Resource economics; Resource circularity
+
+<br>
 
 Research Experiences
 ======
@@ -93,6 +89,8 @@ Research Experiences
     - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
 
+<br>
+
 Conference presentation
 ======
 - 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
@@ -109,10 +107,14 @@ Teaching & Supervising Experiences
 
 - 03/2021-08/2021, _Principles of Economics_(Undergraduate Course), Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
+<br>
+
 Skills
 ======
 - Computer Skills: ArcGIS, STATA, R, Python, SPSS, Eviews
 - Languages: Chinese (Native), English (Proficient), Dutch (A2) 
+
+<br>
 
 Awards & Grants
 ======
