@@ -13,10 +13,12 @@ This is a description of a teaching experience. You can use markdown like any ot
 
 Course information
 ======
-https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950
+For more details, you can find [here](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
+
 
 Course evaluation from students, 2024
 ======
+Course evaluation: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
 
 Feedback on the course from students
 ======
