@@ -23,7 +23,7 @@ Feel free to reach out via email: w.li2@vu.nl
 
 <br>
 
-Education
+Education Backgrounds
 ======
 
 - 09/2021-present, Ph.D. in Economics, Vrije Universiteit Amsterdam, the Netherlands
@@ -42,8 +42,9 @@ Education
   - Topic: Agricultural operations and natural resource management in the US Midwest
 
 <br>
-Research Field
+Research Fields
 ======
+
 Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Applied Econometrics
 
 <!-- Job Market Paper
@@ -65,8 +66,8 @@ Publications
 Working Papers
 ======
 - **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an Ideal Theoretical Model for the Water-Energy-Food Nexus, plan to submit to Journal of Environmental Economics and Management, 2025
-- **Abstract**:This study introduces a theoretical model for the water-energy-food (WEF) nexus, aiming to simultaneously fulfil six objectives: ensuring resource security; promoting resource circularity; enabling transferability across spatial and temporal scales and geographic scopes; maintaining empirical feasibility; integrating economic, environmental, and societal considerations; and facilitating comprehensive and equal identification of resource interactions. The model builds on an established regional water economy model for the Jordan River Basin. Through stepwise adjustments, we demonstrate that the enhanced model successfully achieves all six objectives. Additionally, this model innovatively incorporates the welfare of animals and potentially plants, moving beyond a human-centered perspective. This pioneering model addresses gaps in the WEF nexus research and lays the groundwork for future investigations into human-nature interactions in the Anthropocene.
- - **Keywords**: Water-energy-food nexus; Resource interaction; Theoretical model; Resource economics; Resource circularity
+  - **Abstract**:This study introduces a theoretical model for the water-energy-food (WEF) nexus, aiming to simultaneously fulfil six objectives: ensuring resource security; promoting resource circularity; enabling transferability across spatial and temporal scales and geographic scopes; maintaining empirical feasibility; integrating economic, environmental, and societal considerations; and facilitating comprehensive and equal identification of resource interactions. The model builds on an established regional water economy model for the Jordan River Basin. Through stepwise adjustments, we demonstrate that the enhanced model successfully achieves all six objectives. Additionally, this model innovatively incorporates the welfare of animals and potentially plants, moving beyond a human-centered perspective. This pioneering model addresses gaps in the WEF nexus research and lays the groundwork for future investigations into human-nature interactions in the Anthropocene.
+  - **Keywords**: Water-energy-food nexus; Resource interaction; Theoretical model; Resource economics; Resource circularity
 
 <br>
 
@@ -122,18 +123,18 @@ Skills
 
 Awards & Grants
 ======
-- 07/2022-07/2025, Erasmus+ Mobility Grant-KA171 (€8,760)
+- 07/2022-07/2025, Erasmus+ Mobility Grant-KA171,European Commission (€8,760)
 
-- 09/2021-08/2025, Government-sponsored Oversea Education by China Scholarship Council
+- 09/2021-08/2025, Government-Sponsored Oversea Education, China Scholarship Council
 
-- 09/2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum hosted by the editorial departments of China Rural Economy & China Rural Observation
+- 09/2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum, Editorial departments of China Rural Economy (中国农村经济) & China Rural Observation (中国农村观察)
 
-- 06/2018, Honor Thesis in Management at Northwest Agriculture & Forestry University (awarded to top 100 theses from the whole university) 
+- 06/2018, Honor Thesis in Management, Northwest Agriculture & Forestry University, China (awarded to top 100 theses from the whole university) 
 
 - 11/2017, National Outstanding Forestry Graduates in China (awarded to top 40 graduates nationwide)
 
-- 11/2017, National Scholarship of China (awarded to the top 3%)
+- 11/2017, National Scholarship of China, Ministry of Education, China (awarded to the top 3%)
 
-- 11/2016, National Scholarship of China (awarded to the top 3%)
+- 11/2016, National Scholarship of China, Ministry of Education, China (awarded to the top 3%)
 
 
