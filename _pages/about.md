@@ -96,7 +96,8 @@ Project Experiences
 Conference presentations
 ======
 - 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
-
+- 09/2020, Paper presentation at the [4th Agriculture, Rural Areas and Farmers Forum](https://www.fafu.edu.cn/2020/0929/c132a54610/page.htm), Online, China
+  
 <br>
 
 Teaching & Supervising Experiences
