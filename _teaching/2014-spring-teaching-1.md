@@ -2,33 +2,25 @@
 title: "Advanced Macroeconomics"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+permalink: /teaching/2024&2025-spring-teaching-1
 
 venue: "Amsterdam University College"
 date: 02/2025-05/2025 & 02/2024-05/2024
 location: "Amsterdam, the Netherlands"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Course information
-======
-For more details, you can find [here](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
-
-
-Course evaluation from students, 2024
-======
+Course information: [here](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
 Course manual: [2024](../assets/Course_Manual_Advacedmacro2024.pdf)
-Course evaluation: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
+Course evaluation from students: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
 
-Feedback on the course from students
+Student feedbacks on the course
 ======
 - "Overall, I enjoyed the course a lot. I don't think I have all that many suggestions :)"
 - "super good, everything was clear and the class was enjoyable. Loved the teachers"
 - "The course was really perfect in many ways. I appreciated that the content was complex but the lecturers were able to explain it properly and efficiently. The reading material added on to this as it was clear and explained everything clearly. The assignments were all clear and well placed out throughout the semester. The weights of the assignments were also great and made sure that students but in effort all along the semester. The course explained theory perfectly and made students very knowledgeable in it. The exams were great and were actually interesting to take. Overall the course was not very complex which actually helped me understand the subject matter better and become well mastered in it. I really appreciate this course and it was the highlight of my semester. I would improve upon maybe the slides and make them more clear. Maybe I would also suggest the lectures provide Youtube links so that students can revise the concepts at home through videos. Also I would suggest linking the material more to the real world as it
 would facilitate understanding."
 
-Feedback on my teaching
+Student feedbacks on my teaching
 ======
 - "Very charismatic :)"
 - "Very kind and understanding. super patient and always tries our best to explain everything well. Love her."
