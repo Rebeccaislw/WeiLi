@@ -131,7 +131,7 @@ Awards & Grants
 
 - 06/2018, Honor Thesis in Management, Northwest Agriculture & Forestry University, China (awarded to top 100 theses from the whole university) 
 
-- 11/2017, National Outstanding Forestry Graduates in China (awarded to top 40 graduates nationwide)
+- 11/2017, National Outstanding Forestry Graduates, Chinese Society of Forestry Education & National Forestry and Grassland Administration, China (awarded to top 40 graduates nationwide)
 
 - 11/2017, National Scholarship of China, Ministry of Education, China (awarded to the top 3%)
 
