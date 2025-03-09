@@ -124,7 +124,7 @@ Skills
 
 Awards & Grants
 ======
-- 07/2022-07/2025, Erasmus+ Mobility Grant-KA171,European Commission (€8,760)
+- 07/2022-07/2025, Erasmus+ Mobility Grant-KA171, European Commission (€8,760)
 
 - 09/2021-08/2025, Government-Sponsored Oversea Education, China Scholarship Council
 
@@ -134,8 +134,8 @@ Awards & Grants
 
 - 11/2017, National Outstanding Forestry Graduates, Chinese Society of Forestry Education & National Forestry and Grassland Administration, China (awarded to top 40 graduates nationwide)
 
-- 11/2017, National Scholarship of China, Ministry of Education, China (awarded to the top 3%)
+- 11/2017, National Scholarship, Ministry of Education, China (awarded to the top 3%)
 
-- 11/2016, National Scholarship of China, Ministry of Education, China (awarded to the top 3%)
+- 11/2016, National Scholarship, Ministry of Education, China (awarded to the top 3%)
 
 
