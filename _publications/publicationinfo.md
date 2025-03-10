@@ -4,13 +4,14 @@
 
 - **Abstract**: The water-energy-food (WEF) nexus exemplifies the holistic, integrated, and interdisciplinary system approach, emphasizing mutual interactions between water, energy, and food resources. This study presents the first systematic review that critically evaluates the past progress of WEF nexus research from the evidence-based lens of resource interactions, in terms of quantifying the types and the number of interactions studied. Using a novel classification, this review first classifies 834 WEF nexus interaction studies into four classes based on two axes: (1) The type of study (theoretical or empirical) and (2) The extent of resource interactions examined (all six interactions as a 'full' WEF nexus study or fewer interactions as a 'partial' WEF nexus study). Despite the proliferation of WEF nexus studies since 2011, no significant progress has been made towards including more resource interactions over time in either theoretical studies or empirical applications. Moreover, this review shows that: the number of resource interactions examined in empirical applications is much lower than in theoretical studies; the study of physical resource interactions remains dominant; environmental considerations are biased towards water quality and carbon emissions; and there is a misalignment between research questions and empirical methodologies. Further, this review identifies future directions and provides concrete recommendations for aligning future research to jointly achieve Sustainable Development Goals (SDGs) 2, 6, and 7.
 
+- **Keywords**: Water-energy-food (WEF) nexus; Resource interaction; Nexus theory; Nexus application; System approach; Sustainable development goals (SDGs)
 - **Highlights**:
     - No evident increase in the number of resource interactions studied over time.
     - Theoretical studies include more resource interactions than empirical applications.
     - The study of physical resource interactions remains dominant.
     - There is a misalignment between research questions and empirical methodologies.
   
-  - **Keywords**: Water-energy-food (WEF) nexus; Resource interaction; Nexus theory; Nexus application; System approach; Sustainable development goals (SDGs)
+
   - [Full text](https://www.sciencedirect.com/science/article/pii/S1364032124010062#:~:text=This%20study%20presents%20the%20first%20systematic%20review%20that,the%20types%20and%20the%20number%20of%20interactions%20studied.)
 - Citation: Li, W., Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
 
@@ -20,5 +21,5 @@
 date: 2021-09
 - [Full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007)
 - Citation: Xiaohui Tian, Wei Li, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109.
-- 
+
 ---
