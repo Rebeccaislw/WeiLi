@@ -29,7 +29,7 @@ would facilitate understanding."
   - "The lecturer was attentive to the needs of students and always answered questions. Very easy to reach and is eager to answer questions or address doubts. This was very refreshing compared to other teachers in AUC. Also the lecturer made the classroom lively and made sure to make all students participate. Feedback was always provided and was very clear and genuine."
  
 
-Macroeconomics I
+Macroeconomics I, 2023
 ======
 - Introduction of the Course
   - Undergraduate course
@@ -38,7 +38,7 @@ Macroeconomics I
   - [Course manual](../assets/Macroeconomics_CourseManual.pdf)
 
 
-Economics Challenges
+Economics Challenges, 2022
 ======
 
 - Introduction of the Course
