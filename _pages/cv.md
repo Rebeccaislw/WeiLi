@@ -9,3 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
+you can download my CV [here](../assets/2025.03.09_CV-WeiLi.pdf)
