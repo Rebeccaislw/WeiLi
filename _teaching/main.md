@@ -2,10 +2,6 @@
 permalink: /
 title: "Teaching"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
-
 ---
 
 Advanced Macroeconomics, 2024 & 2025
