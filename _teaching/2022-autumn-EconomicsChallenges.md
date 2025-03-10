@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2024&2025-spring-teaching-1
 
 venue: "Vrije Universiteit Amsterdam"
-date: 2022
+date: 2022-09-01
 location: "Amsterdam, the Netherlands"
 ---
 
