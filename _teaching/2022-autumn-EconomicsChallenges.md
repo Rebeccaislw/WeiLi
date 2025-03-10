@@ -1,3 +1,4 @@
+
 ---
 title: "Economics Challenges"
 collection: teaching
