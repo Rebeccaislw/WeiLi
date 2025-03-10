@@ -5,7 +5,7 @@ type: "Undergraduate course"
 permalink: /teaching/2024&2025-spring-teaching-1
 
 venue: "Amsterdam University College"
-date: 2024 & 2025 
+date: 2024-02-01
 location: "Amsterdam, the Netherlands"
 ---
 
