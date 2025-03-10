@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 
 venue: "Vrije Universiteit Amsterdam"
-date: 2022
+date: 2023-02-06
 location: "Amsterdam, the Netherlands"
 ---
    
