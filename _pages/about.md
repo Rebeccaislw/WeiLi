@@ -57,7 +57,7 @@ Water-Energy-Food Nexus, Environmental Economics, Agricultural Economics, and Ap
 
 Publications
 ======
-- **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. https://doi.org/10.1016/j.rser.2024.115280
+- **Li, W.***, Ward, P. J., & Wesenbeeck, L. V. (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub)
 
 - Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
 
