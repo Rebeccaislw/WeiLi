@@ -8,12 +8,11 @@ redirect_from:
 
 ---
 
-Advanced Macroeconomics
+Advanced Macroeconomics, 2024 & 2025
 ======
-type: "Undergraduate course"
-venue: "Amsterdam University College"
-date: 2024-02-01
-location: "Amsterdam, the Netherlands"
+Undergraduate course
+
+Amsterdam University College, Amsterdam, the Netherlands
 
 - Introduction of the Course
 ======
