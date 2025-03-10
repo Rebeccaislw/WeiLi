@@ -7,6 +7,9 @@ venue: "Vrije Universiteit Amsterdam"
 date: 2022
 location: "Amsterdam, the Netherlands"
 ---
+   
+Introduction of the Course
+======
+ - [Course information](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/)
 
- - [Course information](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/) 
- - [Course manual](../assets/Macroeconomics_CourseManual.pdf) 
+ - [Course manual](../assets/Macroeconomics_CourseManual.pdf)
