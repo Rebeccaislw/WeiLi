@@ -8,7 +8,7 @@ Advanced Macroeconomics, 2024 & 2025
 ======
 
 - Introduction of the Course
-  ===
+  =
   - Undergraduate course
   - Amsterdam University College, Amsterdam, the Netherlands
   - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
@@ -16,7 +16,7 @@ Advanced Macroeconomics, 2024 & 2025
   - Course evaluation from students: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf) 
 
 - Student feedbacks on the course
-  ===
+  ==
   - "Overall, I enjoyed the course a lot. I don't think I have all that many suggestions :)"
   - "super good, everything was clear and the class was enjoyable. Loved the teachers"
   - "The course was really perfect in many ways. I appreciated that the content was complex but the lecturers were able to explain it properly and efficiently. The reading material added on to this as it was clear and explained everything clearly. The assignments were all clear and well placed out throughout the semester. The weights of the assignments were also great and made sure that students but in effort all along the semester. The course explained theory perfectly and made students very knowledgeable in it. The exams were great and were actually interesting to take. Overall the course was not very complex which actually helped me understand the subject matter better and become well mastered in it. I really appreciate this course and it was the highlight of my semester. I would improve upon maybe the slides and make them more clear. Maybe I would also suggest the lectures provide Youtube links so that students can revise the concepts at home through videos. Also I would suggest linking the material more to the real world as it
