@@ -16,6 +16,7 @@ Amsterdam University College, Amsterdam, the Netherlands
 
 - Introduction of the Course
 ======
+
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
 
    - Course manual: [2024](../assets/Course_Manual_Advacedmacro2024.pdf)
