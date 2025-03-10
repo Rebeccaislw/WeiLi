@@ -15,7 +15,6 @@ Undergraduate course
 Amsterdam University College, Amsterdam, the Netherlands
 
 - Introduction of the Course
-======
 
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
 
@@ -33,3 +32,14 @@ would facilitate understanding."
    - "Very charismatic :)"
    - "Very kind and understanding. super patient and always tries our best to explain everything well. Love her."
    - "The lecturer was attentive to the needs of students and always answered questions. Very easy to reach and is eager to answer questions or address doubts. This was very refreshing compared to other teachers in AUC. Also the lecturer made the classroom lively and made sure to make all students participate. Feedback was always provided and was very clear and genuine."
+ 
+
+Macroeconomics I
+======
+Undergraduate course
+Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
+
+- Introduction of the Course
+   - [Course information](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/)
+   - [Course manual](../assets/Macroeconomics_CourseManual.pdf)
+
