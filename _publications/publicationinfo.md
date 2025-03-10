@@ -27,4 +27,3 @@ date: 2021-09
 - [Full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007)
 - Citation: Xiaohui Tian, Wei Li, and Rong Li, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109.
 
----
