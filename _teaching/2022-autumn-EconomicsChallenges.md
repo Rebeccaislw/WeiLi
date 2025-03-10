@@ -1,12 +1,14 @@
-
 ---
 title: "Economics Challenges"
 collection: teaching
 type: "Undergraduate course"
+permalink: /teaching/2024&2025-spring-teaching-1
+
 venue: "Vrije Universiteit Amsterdam"
 date: 2022
 location: "Amsterdam, the Netherlands"
 ---
+
 
 Course information: [here](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)
 ======
