@@ -1,9 +1,9 @@
-
 ---
-permalink: /publications/
+permalink: /Publications/
 title: "Publications"
 author_profile: true
 ---
+
 
 # A critical review of quantifying water-energy-food nexus interactions, _Renewable and Sustainable Energy Reviews_
 
