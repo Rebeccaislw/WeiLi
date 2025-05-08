@@ -5,7 +5,6 @@ title: "Teaching"
 author_profile: true
 date: 2024-09-01
 ---
----
 
 
 # Advanced Macroeconomics, 2024 & 2025
