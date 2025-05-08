@@ -65,7 +65,7 @@ Publications
 
 Working Papers
 ======
-- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, *Towards an Ideal Theoretical Model for the Water-Energy-Food Nexus*, submited to **Journal of Environmental Economics and Management**, 2025
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an Ideal Theoretical Model for the Water-Energy-Food Nexus, submited to **Journal of Environmental Economics and Management**, 2025
   - **Abstract**:This study introduces a theoretical model for the water-energy-food (WEF) nexus, aiming to simultaneously fulfil six objectives: ensuring resource security; promoting resource circularity; enabling transferability across spatial and temporal scales and geographic scopes; maintaining empirical feasibility; integrating economic, environmental, and societal considerations; and facilitating comprehensive and equal identification of resource interactions. The model builds on an established regional water economy model for the Jordan River Basin. Through stepwise adjustments, we demonstrate that the enhanced model successfully achieves all six objectives. Additionally, this model innovatively incorporates the welfare of animals and potentially plants, moving beyond a human-centered perspective. This pioneering model addresses gaps in the WEF nexus research and lays the groundwork for future investigations into human-nature interactions in the Anthropocene.
   - **Keywords**: Water-energy-food nexus; Resource interaction; Theoretical model; Resource economics; Resource circularity
 
