@@ -17,7 +17,7 @@ author_profile: true
     - The study of physical resource interactions remains dominant.
     - There is a misalignment between research questions and empirical methodologies.
 
-  - [Full text](https://www.sciencedirect.com/science/article/pii/S1364032124010062#:~:text=This%20study%20presents%20the%20first%20systematic%20review%20that,the%20types%20and%20the%20number%20of%20interactions%20studied.)
+- [Full text](https://www.sciencedirect.com/science/article/pii/S1364032124010062#:~:text=This%20study%20presents%20the%20first%20systematic%20review%20that,the%20types%20and%20the%20number%20of%20interactions%20studied.)
 
 
   
