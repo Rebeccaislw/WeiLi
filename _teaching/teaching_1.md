@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /publications/
 title: "Teaching"
 author_profile: true
 ---
