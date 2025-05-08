@@ -3,7 +3,6 @@ layout: single
 permalink: /teaching/
 title: "Teaching"
 author_profile: true
-date: 2024-09-01
 ---
 
 
