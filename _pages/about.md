@@ -57,7 +57,7 @@ Water-Energy-Food Nexus, Environmental Economics, Resource Economics, and Agricu
 
 Publications
 ======
-- **Wei Li***, Philip J. Ward, & Lia van Wesenbeeck (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub)
+- **Wei Li***, Philip J. Ward, & Lia van Wesenbeeck (2025). A critical review of quantifying water-energy-food nexus interactions. Renewable and Sustainable Energy Reviews, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub) (Impact Factor: 16.3, CiteScore: 31.2)
 
 - Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, Chinese Rural Economy (中国农村经济), 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
 
@@ -117,7 +117,7 @@ Teaching & Supervising Experiences
 
 Skills
 ======
-- Computer Skills: ArcGIS, STATA, R, Python, SPSS, Eviews
+- Computer Skills: GAMS, ArcGIS, STATA, R, Python
 - Languages: Chinese (Native), English (Proficient), Dutch (A2) 
 
 <br>
