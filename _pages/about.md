@@ -27,7 +27,7 @@ Education Backgrounds
 ======
 
 - 09/2021-present, Ph.D. in Economics, School of Business and Economics, Vrije Universiteit Amsterdam, the Netherlands
-  - Thesis Title: “The Water-Energy-Food Nexus in Beijing-Tianjin-Hebei Region of China?”
+ # - Thesis Title: “The Water-Energy-Food Nexus in Beijing-Tianjin-Hebei Region of China”
 
 - 09/2021-present, Research Associate, Amsterdam Centre for World Food Studies, the Netherlands
 
