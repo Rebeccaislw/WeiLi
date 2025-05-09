@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /publications/
-# title: "Publications"
+title: " "
 author_profile: true
 ---
 
