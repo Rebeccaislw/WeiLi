@@ -1,7 +1,7 @@
 ---
 layout: single
 permalink: /teaching/
-#title: "Teaching"
+title: " "
 author_profile: true
 ---
 
