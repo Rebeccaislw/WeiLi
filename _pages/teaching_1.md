@@ -12,7 +12,7 @@ author_profile: true
    - Undergraduate course
    - Amsterdam University College, Amsterdam, the Netherlands
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
-   - Course manual: [2024]({{"/assets/Course_Manual_Advacedmacro2024.pdf"|relative_url}})
+   - Course manual: [2024](../assets/Course_Manual_Advacedmacro2024.pdf)
    - Course evaluation from students: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
 
 - Student feedbacks on the course
@@ -44,5 +44,5 @@ would facilitate understanding."
    - Undergraduate course
    - Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
   - [Course information](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/)
-  - [Course manual]({{"/assets/Macroeconomics_CourseManual.pdf"|relative_url}})
+  - [Course manual](../assets/Macroeconomics_CourseManual.pdf)
 
