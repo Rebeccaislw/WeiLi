@@ -13,7 +13,7 @@ author_profile: true
    - Amsterdam University College, Amsterdam, the Netherlands
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
    - Course manual: [2024]({{"/assets/Course_Manual_Advacedmacro2024.pdf"|relative_url}})
-   - Course evaluation from students: [2024]({{"/assets/Course_Evaluation_Advacedmacro2024.pdf"|relative_url}})
+   - Course evaluation from students: [2024](../assets/Course_Evaluation_Advacedmacro2024.pdf)
 
 - Student feedbacks on the course
    - "Overall, I enjoyed the course a lot. I don't think I have all that many suggestions :)"
