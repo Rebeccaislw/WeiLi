@@ -19,6 +19,9 @@ I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-w
 
 For more details, you can find my CV here: [WeiLi's CV](/assets/CV.pdf)
 
+You can download my latest CV below:</p>
+        <a class="cv-link" href="/assets/CV.pdf" target="_blank">Download CV</a>
+        
 Feel free to reach out via email: w.li2@vu.nl
 
 <br>
