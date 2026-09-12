@@ -3,6 +3,26 @@ layout: archive
 permalink: /
 title: "About Me"
 author_profile: true
+<head>
+    <meta charset="utf-8">
+    <title>About Me - Rebecca</title>
+    
+    <!-- 1. 加载英文字体 Inter -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+    
+    <!-- 2. 应用字体 -->
+    <style>
+        body {
+            font-family: 'Inter', "PingFang SC", "Microsoft YaHei", sans-serif;
+            line-height: 1.6;
+            max-width: 800px; /* 限制最大宽度，不要让文字横跨整个屏幕，阅读更舒服 */
+            margin: 0 auto;   /* 居中显示 */
+            padding: 20px;    /* 四周留点空白 */
+        }
+    </style>
+</head>
 ---
 
 I am a Ph.D. candidate in **Economics** at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
