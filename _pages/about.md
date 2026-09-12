@@ -70,6 +70,8 @@ Working Paper
 ======
 - **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Evaluating a decade of integrated governance: equity impacts of China’s Beijing-Tianjin-Hebei coordinated development plan.
 
+<br>
+
 Project Experiences
 ======
 - 01/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
