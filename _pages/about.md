@@ -101,9 +101,9 @@ Conference presentations
 
 Teaching & Supervising Experiences
 ======
-- 08/2026-12/2026, [_Fundamentals of Micro-Economics_](https://studiegids.uva.nl/en/courses/2026/1/59495) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with  [Prof. Wendy Janssens](https://research.vu.nl/en/persons/wendy-janssens/) and [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
+- 08/2026-12/2026, [_Fundamentals of Micro-Economics_](https://studiegids.uva.nl/en/courses/2026/1/59495) (Undergraduate Course), Amsterdam University College, teaching assistant for [Prof. Wendy Janssens](https://research.vu.nl/en/persons/wendy-janssens/) and [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
 
-- 02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
+- 02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, teaching assistant for [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
 
 - 04/2023-07/2023, Bachelor Thesis Supervision, student: Janina Krupski, thesis title: _China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?_
 
@@ -124,6 +124,8 @@ Skills
 
 Awards & Grants
 ======
+- 11/2025, Excellence in Teaching Award, Vrije Universiteit Amsterdam
+- 
 - 07/2022-07/2025, Erasmus+ Mobility Grant-KA171, European Commission (€8,760)
 
 - 09/2021-08/2025, Government-Sponsored Oversea Education, China Scholarship Council
