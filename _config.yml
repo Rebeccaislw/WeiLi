@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Wei Li"
 description              : &description "personal description"
 url                      : "https://rebeccaislw.github.io"
-baseurl                  :  "/WeiLi"
+baseurl                  : "/WeiLi"
 repository               : "rebeccaislw.github.io/WeiLi/"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
