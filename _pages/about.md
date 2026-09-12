@@ -5,13 +5,13 @@ title: "About Me"
 author_profile: true
 ---
 
-I am a Ph.D. candidate in Economics at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
+I am a Ph.D. candidate in **Economics** at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
 
-My research lies at the intersection of Environmental Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. I am passionate about understanding how resource interdependencies shape sustainable development and policy decisions.
+My research lies at the intersection of Environmental and Resource Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. I am passionate about understanding how resource interdependencies shape sustainable development and integrated policy decisions.
 
-I am on the 2024-2025 Job Market.
+I am on the 2026-2027 Job Market.
 
-I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Prof.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
+I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Dr.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
 You can download my latest CV : <a class="cv-link" href="/assets/CV.pdf" target="_blank">Download CV</a>
         
@@ -40,7 +40,7 @@ Education Backgrounds
 
 Research Fields
 ======
-Water-Energy-Food Nexus, Environmental Economics, Resource Economics, and Agricultural Economics
+Water-Energy-Food Nexus, Integrated Resource Governance, Environmental and Resource Economics, Agricultural Economics, Interdisciplinary Research 
 
 <!-- Job Market Paper
 ======
@@ -52,19 +52,23 @@ Water-Energy-Food Nexus, Environmental Economics, Resource Economics, and Agricu
 
 Publications
 ======
-- **Wei Li***, Philip J. Ward, & Lia van Wesenbeeck (2025). A critical review of quantifying water-energy-food nexus interactions. **Renewable and Sustainable Energy Reviews**, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub) (Impact Factor: 16.3, CiteScore: 31.2)
+- **Wei Li***, Philip J. Ward, and Lia van Wesenbeeck (2025). A critical review of quantifying water-energy-food nexus interactions. **Renewable and Sustainable Energy Reviews**, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub) (Impact Factor: 16.3, CiteScore: 31.2)
 
 - Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
 
+- Lia van Wesenbeeck*, Ben Sonneveld, and ***Wei Li*** (2026). [Food, Water and Energy](https://link.springer.com/rwe/10.1007/978-3-031-51703-7_269-1). In: Encyclopedia of the Anthropocene. Springer, Cham.
+
 <br>
 
-R&R Working Papers
+Under Reiview
 ======
-- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an Ideal Theoretical Model for the Water-Energy-Food Nexus, submited to **Journal of Environmental Economics and Management**, 2025
-  - **Abstract**:This study introduces a theoretical model for the water-energy-food (WEF) nexus, aiming to simultaneously fulfil six objectives: ensuring resource security; promoting resource circularity; enabling transferability across spatial and temporal scales and geographic scopes; maintaining empirical feasibility; integrating economic, environmental, and societal considerations; and facilitating comprehensive and equal identification of resource interactions. The model builds on an established regional water economy model for the Jordan River Basin. Through stepwise adjustments, we demonstrate that the enhanced model successfully achieves all six objectives. Additionally, this model innovatively incorporates the welfare of animals and potentially plants, moving beyond a human-centered perspective. This pioneering model addresses gaps in the WEF nexus research and lays the groundwork for future investigations into human-nature interactions in the Anthropocene.
-  - **Keywords**: Water-energy-food nexus; Resource interaction; Theoretical model; Resource economics; Resource circularity
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance. [EGUsphere (preprint)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). Under review at **Hydrology and Earth System Science**
 
 <br>
+
+Working Paper
+======
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Evaluating a decade of integrated governance: equity impacts of China’s Beijing-Tianjin-Hebei coordinated development plan.
 
 Project Experiences
 ======
@@ -97,12 +101,13 @@ Conference presentations
 
 Teaching & Supervising Experiences
 ======
+- 08/2026-12/2026, [_Fundamentals of Micro-Economics_](https://studiegids.uva.nl/en/courses/2026/1/59495) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with  [Prof. Wendy Janssens](https://research.vu.nl/en/persons/wendy-janssens/) and [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
 
-- 02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Prof. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
+- 02/2025-05/2025 & 02/2024-05/2024, [_Advanced Macroeconomics_](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950) (Undergraduate Course), Amsterdam University College, lecturer co-teaching with [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
 
 - 04/2023-07/2023, Bachelor Thesis Supervision, student: Janina Krupski, thesis title: _China’s Pilot Free Trade Zones: The Solution to Avoiding the Middle-Income Trap?_
 
-- 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
+- 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Dr. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
 
 - 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
 
