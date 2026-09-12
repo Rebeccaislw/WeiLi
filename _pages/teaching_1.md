@@ -14,7 +14,8 @@ author_profile: true
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
    - Course manual: [2024](/assets/Course_Manual_Advacedmacro2024.pdf)
    - Course evaluation from students: [2024](/assets/Course_Evaluation_Advacedmacro2024.pdf)
-
+   - Student satisfaction: **4,7/5**
+   
 - Student feedbacks on the course
    - "Overall, I enjoyed the course a lot. I don't think I have all that many suggestions :)"
    - "super good, everything was clear and the class was enjoyable. Loved the teachers"
@@ -25,7 +26,10 @@ would facilitate understanding."
    - "Very charismatic :)"
    - "Very kind and understanding. super patient and always tries our best to explain everything well. Love her."
    - "The lecturer was attentive to the needs of students and always answered questions. Very easy to reach and is eager to answer questions or address doubts. This was very refreshing compared to other teachers in AUC. Also the lecturer made the classroom lively and made sure to make all students participate. Feedback was always provided and was very clear and genuine."
- 
+   - "You were the best PhD teacher we've has at this school, and if you come back to teach another course at AUC next year please let me know."
+   - "I thoroughly enjoyed the classes you taught and the help you provided, so thank you for this!"
+   - "I want to write a letter to express my gratitude to you for the course that we had together. I just want to say that I am very glad to have this course with you. Your explanation of the exercises really clicked with me, and I understand it very well. I also very appreciate all the detailed comments and feedback you give us on our assignments, which help us to improve our work. Moreover, you are also very patient and funny, you help me to answer so many questions related to the course, but also about studying economics in general, which I appreciate. I like all the advice you give me and the conversations we have after class, and some of your outfits as well :) Once again, thanks a lot, I hope to see you again sometime outside of AUC."
+
 # Economics Challenges, 2022
 
 - Introduction of the Course
