@@ -127,7 +127,7 @@ Skills
 Awards & Grants
 ======
 - 11/2025, Excellence in Teaching Award, Vrije Universiteit Amsterdam
-- 
+
 - 07/2022-07/2025, Erasmus+ Mobility Grant-KA171, European Commission (€8,760)
 
 - 09/2021-08/2025, Government-Sponsored Oversea Education, China Scholarship Council
