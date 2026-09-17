@@ -1,6 +1,9 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap');
+
 html {
   /* sticky footer fix */
   position: relative;
@@ -313,3 +316,25 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   -webkit-transition: $global-transition;
   transition: $global-transition;
 }
+
+/* =============== 自定义字体和颜色开始 =============== */
+body {
+    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+    color: #333333; /* 正文颜色：深灰色，看久了不累 */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Inter', "PingFang SC", "Microsoft YaHei", sans-serif;
+    color: #111111; /* 标题颜色：近乎黑色，更有对比度 */
+    font-weight: 600;
+}
+
+/* 导航栏字体和链接颜色 */
+a, .site-nav a, .masthead a {
+    color: #0056b3 !important; /* 优雅的学术蓝 */
+}
+
+a:hover, .site-nav a:hover {
+    color: #003d82 !important; /* 鼠标悬停时颜色加深 */
+}
+/* =============== 自定义字体和颜色结束 =============== */
