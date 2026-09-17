@@ -317,21 +317,27 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-/* =============== 明显的变化 =============== */
+/* =============== 自定义字体和颜色 =============== */
 body, p, li {
-    font-family: 'Georgia', "Songti SC", "PingFang SC", sans-serif !important; /* 换成有衬线的字体，立刻不一样 */
-    font-size: 18px !important; /* 字号变大 */
-    line-height: 1.9 !important; /* 行距变宽，阅读更舒服 */
-    color: #2c3e50 !important; /* 深蓝灰色，比纯黑柔和但很明显 */
+    font-family: 'Georgia', "Songti SC", "PingFang SC", sans-serif !important;
+    font-size: 18px !important;
+    line-height: 1.9 !important;
+    color: #2c3e50 !important;
 }
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Georgia', "Songti SC", serif !important;
-    color: #0056b3 !important; /* 标题变成显眼的学术蓝 */
-    font-weight: 700 !important; /* 标题加粗 */
+    color: #0056b3 !important; /* 标题：学术蓝 */
+    font-weight: 700 !important;
 }
 
+/* 链接和导航栏：也用学术蓝 */
 a, .site-nav a {
-    color: #e74c3c !important; /* 链接变成显眼的红色，绝对一眼看出 */
+    color: #0056b3 !important; /* 和标题一样的蓝色 */
     font-weight: bold !important;
+}
+
+/* 鼠标悬停时颜色稍微变深一点，体验更好 */
+a:hover, .site-nav a:hover {
+    color: #003d82 !important;
 }
