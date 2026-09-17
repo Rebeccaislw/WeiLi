@@ -317,24 +317,21 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
   transition: $global-transition;
 }
 
-/* =============== 自定义字体和颜色开始 =============== */
-body {
-    font-family: 'Inter', -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
-    color: #333333; /* 正文颜色：深灰色，看久了不累 */
+/* =============== 明显的变化 =============== */
+body, p, li {
+    font-family: 'Georgia', "Songti SC", "PingFang SC", sans-serif !important; /* 换成有衬线的字体，立刻不一样 */
+    font-size: 18px !important; /* 字号变大 */
+    line-height: 1.9 !important; /* 行距变宽，阅读更舒服 */
+    color: #2c3e50 !important; /* 深蓝灰色，比纯黑柔和但很明显 */
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Inter', "PingFang SC", "Microsoft YaHei", sans-serif;
-    color: #111111; /* 标题颜色：近乎黑色，更有对比度 */
-    font-weight: 600;
+    font-family: 'Georgia', "Songti SC", serif !important;
+    color: #0056b3 !important; /* 标题变成显眼的学术蓝 */
+    font-weight: 700 !important; /* 标题加粗 */
 }
 
-/* 导航栏字体和链接颜色 */
-a, .site-nav a, .masthead a {
-    color: #0056b3 !important; /* 优雅的学术蓝 */
+a, .site-nav a {
+    color: #e74c3c !important; /* 链接变成显眼的红色，绝对一眼看出 */
+    font-weight: bold !important;
 }
-
-a:hover, .site-nav a:hover {
-    color: #003d82 !important; /* 鼠标悬停时颜色加深 */
-}
-/* =============== 自定义字体和颜色结束 =============== */
