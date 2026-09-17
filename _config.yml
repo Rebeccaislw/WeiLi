@@ -15,7 +15,6 @@ description              : &description "personal description"
 url                      : "https://rebeccaislw.github.io"
 baseurl                  : "/WeiLi"
 repository               : "rebeccaislw/WeiLi"
-remote_theme             : "pages-themes/dinky@v0.2.0"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
