@@ -341,3 +341,26 @@ a, .site-nav a {
 a:hover, .site-nav a:hover {
     color: #003d82 !important;
 }
+
+/* =============== 单独将导航栏和左侧名字改为黑色 =============== */
+
+/* 1. 顶部导航栏 (Homepage, Publications, Teaching) */
+.site-nav a, 
+.masthead__menu-item a,
+.greedy-nav a {
+    color: #333333 !important; /* 黑色（深灰色，比纯黑更柔和） */
+}
+
+/* 2. 左侧边栏的名字 (比如 Rebecca) */
+.sidebar .author__name,
+.sidebar .author__name a,
+.author__name {
+    color: #333333 !important; /* 黑色 */
+}
+
+/* 3. 鼠标悬停（Hover）时，为了有交互感，变回你喜欢的蓝色 */
+.site-nav a:hover, 
+.masthead__menu-item a:hover,
+.sidebar .author__name a:hover {
+    color: #0056b3 !important; /* 悬停时变回原来的蓝色 */
+}
