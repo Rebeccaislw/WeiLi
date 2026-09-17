@@ -21,7 +21,7 @@ author_profile: true
    - Course manual: [2024](/assets/Course_Manual_Advacedmacro2024.pdf)
    - Course evaluation from students: [2024](/assets/Course_Evaluation_Advacedmacro2024.pdf)
    - Student satisfaction: **4,7/5**
-<br>
+
 - **Student feedbacks on the course**
    - "Overall, I enjoyed the course a lot. I don't think I have all that many suggestions :)"
    - "super good, everything was clear and the class was enjoyable. Loved the teachers"
@@ -43,7 +43,7 @@ would facilitate understanding."
    - Undergraduate course
    - Vrije Universiteit Amsterdam, Amsterdam, the Netherlands
    - Course information: [here](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)
-<br>
+
 - **Student feedbacks on my teaching**
    - "I wanted to take a moment to express my sincere gratitude for this semester. It was truly an honour to learn from you. You managed to make a challenging course both enjoyable and enlightening, for which I am deeply thankful. Your feedback on my presentation was incredibly valuable. Thank you for your excellent teaching and guidance."
    - "I would like to sincerely thank you for what you do. I really like your class, your preparation for the topics, also the way you explain the material to us. I notice that you are not always sure if we are having an enjoyable time, but I can confidently say that I appreciate your efforts -I am finally getting happiness out of going to university:) In my home country the culture is quite different - I think students are more respectful towards lecturers (the post-soviet society is also playing its role), while lecturers are much stricter and harsher towards their students. I notice a kind of contrast, and it is unclear to me why some students seem to be so disinterested in the information they are given here. It was new to me when I first got here. Also it's my first time in English-speaking society, so I still have trouble with sentence construction in speech, and I'm shy to speak, so I can't tell you that in real life. But I really want you to know, that I'm so grateful that you're my tutor for this period!"
