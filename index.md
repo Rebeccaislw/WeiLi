@@ -111,7 +111,7 @@ Teaching & Supervising Experiences
 
 - 02/2023-03/2023, [_Macroeconomics I_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Dr. B.A. Bruegemann](https://research.vu.nl/en/persons/bjoern-brugemann)
 
-- 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Prof. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
+- 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Dr. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
 
 - 03/2021-08/2021, _Principles of Economics_(Undergraduate Course), Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
