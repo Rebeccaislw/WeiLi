@@ -30,10 +30,10 @@ Education Backgrounds
   - _**Outstanding graduate**_
   - Supervisor: [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
-- 09/2014-07/2018, BSc in Management, College of Economics and Management, [Northwest Agricultural & Forestry University](https://www.nwafu.edu.cn/), China **(GPA: 3.78/4, rank 1/67)**
+- 09/2014-07/2018, BSc in Management, College of Economics and Management, [Northwest Agricultural & Forestry University](https://en.nwsuaf.edu.cn/), China **(GPA: 3.78/4, rank 1/67)**
   - _**Outstanding graduate**_
 
-- 07/2016-08/2016, Study Abroad Program, Michigan State University, United States of America
+- 07/2016-08/2016, Study Abroad Program, [Michigan State University](https://msu.edu/), United States of America
   - Topic: Agricultural operations and natural resource management in the US Midwest
 
 <br>
