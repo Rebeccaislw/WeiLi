@@ -131,6 +131,8 @@ Awards & Grants
 
 - 09/2021-08/2025, Government-Sponsored Oversea Education, China Scholarship Council
 
+- 12/2020, First-class Academic Scholarship, Renmin University of China
+
 - 09/2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum, Editorial departments of China Rural Economy (中国农村经济) & China Rural Observation (中国农村观察)
 
 - 06/2018, Honor Thesis in Management, Northwest Agriculture & Forestry University, China **(awarded to top 100 theses from the whole university)**
