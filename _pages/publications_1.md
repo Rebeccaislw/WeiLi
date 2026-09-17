@@ -16,12 +16,12 @@ author_profile: true
     - Theoretical studies include more resource interactions than empirical applications.
     - The study of physical resource interactions remains dominant.
     - There is a misalignment between research questions and empirical methodologies.
-- [Full text](assets/RSER.pdf)
+- [Full text](/assets/RSER.pdf)
 <br><br>
 
 Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). Food, Water and Energy. **Encyclopedia of the Anthropocene**. Springer, Cham.
 - **Synonyms**: Agriculture, Water, and Energy; Food Systems, Water Resources, and Energy Supply; Water-Energy-Food nexus; WEF nexus
-- [Full text](assets/Encyclopediao.pdf)
+- [Full text](/assets/Encyclopediao.pdf)
 <br><br>
 
 Xiaohui Tian, **Wei Li**, and Rong Li* (2021). The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, 021(09):95-109.
