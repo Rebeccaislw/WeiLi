@@ -56,16 +56,19 @@ Publications
 - Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). [Food, Water and Energy](https://link.springer.com/rwe/10.1007/978-3-031-51703-7_269-1). **Encyclopedia of the Anthropocene**. Springer, Cham.
 
 - Xiaohui Tian, **Wei Li**, and Rong Li* (2021). The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, (09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](/assets/ChinaRuralEconomics.pdf) is in Chinese with an English abstract)
+
 <br>
 
 Under Reiview
 ======
 - **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance. [EGUsphere (preprint)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). Under review at **Hydrology and Earth System Science**
+
 <br>
 
 Working Paper
 ======
 - **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Evaluating a decade of integrated governance: equity impacts of China’s Beijing-Tianjin-Hebei coordinated development plan.
+
 <br>
 
 Project Experiences
@@ -87,12 +90,14 @@ Project Experiences
     - Participated in household survey, enterprise interview, government discussion in Shanghai, Jiangsu province and Anhui province of China
     - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
+
 <br>
 
 Conference presentations
 ======
 - 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
 - 09/2020, Paper presentation at the [4th Agriculture, Rural Areas and Farmers Forum](https://www.fafu.edu.cn/2020/0929/c132a54610/page.htm), Online, China
+
 <br>
 
 Teaching & Supervising Experiences
@@ -108,12 +113,14 @@ Teaching & Supervising Experiences
 - 09/2022-10/2022, [_Economics Challenges_](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/) (Undergraduate Course), Vrije Universiteit Amsterdam, teaching assistant for [Dr. Roland Iwan Luttens](https://research.vu.nl/en/persons/roland-iwan-luttens)
 
 - 03/2021-08/2021, _Principles of Economics_(Undergraduate Course), Renmin University of China, teaching assistant for [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
+
 <br>
 
 Skills
 ======
 - Computer Skills: GAMS, ArcGIS, STATA, R, Python
 - Languages: Chinese (Native), English (Proficient), Dutch (A2) 
+
 <br>
 
 Awards & Grants
