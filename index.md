@@ -54,7 +54,7 @@ Publications
 ======
 - **Wei Li***, Philip J. Ward, and Lia van Wesenbeeck (2025). A critical review of quantifying water-energy-food nexus interactions. **Renewable and Sustainable Energy Reviews**, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub) (Impact Factor: 16.3, CiteScore: 31.2)
 
-- Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
+- Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](/assets/ChinaRuralEconomics.pdf) is in Chinese with an English abstract)
 
 - Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). [Food, Water and Energy](https://link.springer.com/rwe/10.1007/978-3-031-51703-7_269-1). In: Encyclopedia of the Anthropocene. Springer, Cham.
 
