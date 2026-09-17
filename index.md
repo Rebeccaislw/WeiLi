@@ -26,7 +26,7 @@ Education Backgrounds
 
 - 09/2021-present, Research Associate, Amsterdam Centre for World Food Studies, the Netherlands
 
-- 09/2018-07/2021, MSc in Management, School of Agriculture Economics and Rural Development, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), **(GPA: 3.89/4, rank 1/53)**
+- 09/2018-07/2021, MSc in Management, School of Agriculture Economics and Rural Development, [Renmin University of China](https://en.ruc.edu.cn/), **(GPA: 3.89/4, rank 1/53)**
   - _**Outstanding graduate**_
   - Supervisor: [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
