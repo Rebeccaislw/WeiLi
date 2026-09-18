@@ -15,6 +15,7 @@ author_profile: true
     - The study of physical resource interactions remains dominant.
     - There is a misalignment between research questions and empirical methodologies.
 - [Full text]({{site.baseurl}}/assets/RSER.pdf)
+- <a href="{{ site.baseurl }}/assets/RSER.pdf">Full text</a>
 <br><br>
 
 Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). Food, Water and Energy. **Encyclopedia of the Anthropocene**. Springer, Cham.
