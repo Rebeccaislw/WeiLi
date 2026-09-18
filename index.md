@@ -14,6 +14,7 @@ My research lies at the intersection of Environmental and Resource Economics, Ag
 I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Dr.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
 You can download my latest CV <a href="{{ site.baseurl }}/assets/CV.pdf">here</a>.
+
 Feel free to reach out via email: w.li2@vu.nl
 
 <br>
