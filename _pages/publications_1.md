@@ -14,7 +14,7 @@ author_profile: true
     - Theoretical studies include more resource interactions than empirical applications.
     - The study of physical resource interactions remains dominant.
     - There is a misalignment between research questions and empirical methodologies.
-- [Full text](/WeiLi/assets/RSER.pdf)
+- [Full text](assets/RSER.pdf)
 <br><br>
 
 Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). Food, Water and Energy. **Encyclopedia of the Anthropocene**. Springer, Cham.
