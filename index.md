@@ -13,7 +13,7 @@ My research lies at the intersection of Environmental and Resource Economics, Ag
 
 I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Dr.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
-You can download my latest CV <a class="cv-link" href="/assets/2026.08.15_CV.pdf" target="_blank">here</a>.
+You can download my latest CV <a class="cv-link" href="/assets/CV.pdf" target="_blank">here</a>.
         
 Feel free to reach out via email: w.li2@vu.nl
 
@@ -55,13 +55,13 @@ Publications
 
 - Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). [Food, Water and Energy](https://link.springer.com/rwe/10.1007/978-3-031-51703-7_269-1). **Encyclopedia of the Anthropocene**. Springer, Cham.
 
-- Xiaohui Tian, **Wei Li**, and Rong Li* (2021). The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, (09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](/assets/ChinaRuralEconomics.pdf) is in Chinese with an English abstract)
+- Xiaohui Tian, **Wei Li**, and Rong Li* (2021). [The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy](https://zgncjj.ajcass.com/#/issueDetail?contentId=119605&year=2021&issue=9&title=%E8%BF%87%E5%88%8A%E6%B5%8F%E8%A7%88), **Chinese Rural Economy (中国农村经济)**, (09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](/assets/ChinaRuralEconomics.pdf) is in Chinese with an English abstract)
 
 <br>
 
 Under Reiview
 ======
-- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance. [EGUsphere (preprint)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). Under review at **Hydrology and Earth System Science**
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, [Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). EGUsphere (preprint). Under review at **Hydrology and Earth System Science**
 
 <br>
 
