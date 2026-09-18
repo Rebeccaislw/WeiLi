@@ -14,16 +14,16 @@ author_profile: true
     - Theoretical studies include more resource interactions than empirical applications.
     - The study of physical resource interactions remains dominant.
     - There is a misalignment between research questions and empirical methodologies.
-- [Full text](/assets/RSER.pdf)
+- [Full text](/WeiLi/assets/RSER.pdf)
 <br><br>
 
 Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). Food, Water and Energy. **Encyclopedia of the Anthropocene**. Springer, Cham.
 - **Synonyms**: Agriculture, Water, and Energy; Food Systems, Water Resources, and Energy Supply; Water-Energy-Food nexus; WEF nexus
-- [Full text](/assets/Encyclopediao.pdf)
+- [Full text](/WeiLi/assets/Encyclopediao.pdf)
 <br><br>
 
 Xiaohui Tian, **Wei Li**, and Rong Li* (2021). The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, 021(09):95-109.
 - **Abstract**: Based on China’s agricultural production data at the county level and satellite remote sensing data, from the perspective of the implementation of the agricultural machinery purchase subsidy policy, this article takes the quasi-natural experimental characteristics of the policy as exogenous shocks of agricultural mechanization and uses the Difference-in-differences (DID) approach to measure the impacts of agricultural machinery purchase subsidy policy on polluting agricultural production behaviors and its mechanisms. The results show that the agricultural machinery purchase subsidy policy has significantly improved the level of agricultural mechanization, and the impacts of the policy on polluting agricultural production behaviors are different and with a certain lag. Specifically, the policy has significantly reduced the use of plastic film in the current year and the next year and increased the number of straw-burning points in the next year after the policy started but had no significant impacts on the use of chemical fertilizer and pesticide. The mechanism analysis shows that the policy has changed the way farmers used polluting inputs and treated agricultural production waste by expanding the proportion of grain sown area and promoting the outflow of agricultural labor force, which has a corresponding impact on the ecological environment."
 - **Keywords**: Agricultural Mechanization; Production Behavior; Crop Structure; Labor Mobility; Difference-in-differences
 date: 2021-09
-- [Full text](/assets/ChinaRuralEconomics.pdf)
+- [Full text](/WeiLi/assets/ChinaRuralEconomics.pdf)
