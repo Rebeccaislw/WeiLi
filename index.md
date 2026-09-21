@@ -73,7 +73,7 @@ Working Paper
 
 Project Experiences
 ======
-- 01/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
+- 08/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
   - **Funder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
     - Coordinated with local village cadres as one of team leaders
     - Participated in the household survey of seven villages in Hebei Province, China
