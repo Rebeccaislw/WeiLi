@@ -74,19 +74,19 @@ Working Paper
 Project Experiences
 ======
 - 01/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
-  - **Founder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
+  - **Funder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
     - Coordinated with local village cadres as one of team leaders
     - Participated in the household survey of seven villages in Hebei Province, China
 
 - 01/2019-02/2021, **Project**：Short-term Forecast and Analysis of Agricultural Product Market Prices
-  - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
+  - **Funder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
     - Used the time series model to forecast the major agricultural products’ price in China
     - Developed the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
     - Wrote four semi-annual reports
     - The report of the first half of 2020 was **approved by the Deputy Secretary-General of the National Development and Reform Commission of China**
 
 - 02/2019-01/2020, **Project**: Evaluation of Agricultural Modernization Level of National Modern Agricultural Demonstration Zone
-  - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China 
+  - **Funder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China 
     - Participated in household survey, enterprise interview, government discussion in Shanghai, Jiangsu province and Anhui province of China
     - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
