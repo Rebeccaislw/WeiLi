@@ -129,7 +129,7 @@ Awards & Grants
 
 - 07/2022-07/2025, Erasmus+ Mobility Grant-KA171, European Commission (€8,760)
 
-- 09/2021-08/2025, Government-Sponsored Oversea Education, China Scholarship Council
+- 09/2021-08/2027, Government-Sponsored Oversea Education, China Scholarship Council
 
 - 12/2020, First-class Academic Scholarship, Renmin University of China
 
