@@ -95,9 +95,9 @@ Project Experiences
 
 Conference Presentations
 ======
-- 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
-- 04/2025, Paper presentation at [Tinbergen Institute PhD seminar](https://tinbergen.nl/event/2025/04/04/12928/towards-an-ideal-theoretical-model-for-the-water-energy-food-nexus), Amsterdam, the Netherlands
-- 09/2020, Paper presentation at the [4th Agriculture, Rural Areas and Farmers Forum](https://www.fafu.edu.cn/2020/0929/c132a54610/page.htm), Online, China
+- 06/2025, [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
+- 04/2025, [Tinbergen Institute PhD seminar](https://tinbergen.nl/event/2025/04/04/12928/towards-an-ideal-theoretical-model-for-the-water-energy-food-nexus), Amsterdam, the Netherlands
+- 09/2020, [4th Agriculture, Rural Areas and Farmers Forum](https://www.fafu.edu.cn/2020/0929/c132a54610/page.htm), Online, China
 
 <br>
 
