@@ -7,24 +7,22 @@ author_profile: true
 
 I am a Ph.D. candidate in **Economics** at the School of Business and Economics at Vrije Universiteit Amsterdam.
 
-My research lies at the intersection of Environmental and Resource Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. I am passionate about understanding how resource interdependencies shape sustainable development and integrated policy decisions.
+My research lies at the intersection of Environmental and Resource Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. My work examines how interdependencies among water, energy, and food resources affect resource allocation, environmental sustainability, and integrated governance.
 
-**I am on the 2026-2027 Job Market.**
+**2026-2027 Job Market Candidate.**
 
 I am supervised by [Prof. Philip J. Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
-You can download my latest CV <a href="{{ site.baseurl }}/assets/CV.pdf">here</a>.
+Download CV <a href="{{ site.baseurl }}/assets/CV.pdf">here</a>.
 
 Feel free to reach out via email: w.li2@vu.nl
 
 <br>
 
-Education Backgrounds
+Education
 ======
 
-- 09/2021-present, Ph.D. in Economics, School of Business and Economics, [Vrije Universiteit Amsterdam](https://vu.nl/en), the Netherlands
-
-- 09/2021-present, Research Associate, [Amsterdam Centre for World Food Studies](https://vu.nl/en/about-vu/research-institutes/amsterdam-centre-for-world-food-studies-acwfs), the Netherlands
+- 09/2021-Present, Ph.D. in Economics, School of Business and Economics, [Vrije Universiteit Amsterdam](https://vu.nl/en), the Netherlands
 
 - 09/2018-07/2021, MSc in Management, School of Agriculture Economics and Rural Development, [Renmin University of China](https://en.ruc.edu.cn/), **(GPA: 3.89/4, rank 1/53)**
   - _**Outstanding graduate**_
@@ -40,12 +38,12 @@ Education Backgrounds
 
 Research Fields
 ======
-Water-Energy-Food Nexus, Integrated Resource Governance, Environmental and Resource Economics, Agricultural Economics, Interdisciplinary Research 
+Environmental and Resource Economics, Applied Econometrics, Agricultural Economics, Water-Energy-Food Nexus, Integrated Resource Governance 
 
-<!-- Job Market Paper
+Job Market Paper
 ======
-
- -->
+Evaluating a Decade of Integrated Governance: Equity Impacts of China's Beijing–Tianjin–Hebei Coordinated Development Plan
+**Wei Li***, Philip J. Ward and Lia van Wesenbeeck
 
 <br>
 
@@ -59,23 +57,19 @@ Publications
 
 <br>
 
-Under Review
+Manuscripts Under Review
 ======
-- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, [Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). EGUsphere (preprint). Under review at **Hydrology and Earth System Science**
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, [Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). EGUsphere (preprint). **Hydrology and Earth System Science**.
 
 <br>
 
-Working Paper
+Project Experience
 ======
-- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Evaluating a decade of integrated governance: equity impacts of China’s Beijing-Tianjin-Hebei coordinated development plan.
+- 09/2021-Present, Research Associate, [Amsterdam Centre for World Food Studies](https://vu.nl/en/about-vu/research-institutes/amsterdam-centre-for-world-food-studies-acwfs), the Netherlands
 
-<br>
-
-Project Experiences
-======
 - 08/2023-09/2023, **Project**: Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
   - **Funder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
-    - Coordinated with local village cadres as one of team leaders
+    - Coordinated fieldwork with local village cadres as a team leader
     - Participated in the household survey of seven villages in Hebei Province, China
 
 - 01/2019-02/2021, **Project**: Short-term Forecast and Analysis of Agricultural Product Market Prices
@@ -95,13 +89,13 @@ Project Experiences
 
 Conference Presentations
 ======
-- 06/2025, [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
+- 06/2025, [World Conference on Natural Resource Modeling](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
 - 04/2025, [Tinbergen Institute PhD seminar](https://tinbergen.nl/event/2025/04/04/12928/towards-an-ideal-theoretical-model-for-the-water-energy-food-nexus), Amsterdam, the Netherlands
 - 09/2020, [4th Agriculture, Rural Areas and Farmers Forum](https://www.fafu.edu.cn/2020/0929/c132a54610/page.htm), Online, China
 
 <br>
 
-Teaching & Supervising Experiences
+Teaching & Supervising Experience
 ======
 - 08/2026-12/2026, [_Fundamentals of Micro-Economics_](https://studiegids.uva.nl/en/courses/2026/1/59495) (Undergraduate Course), Amsterdam University College, teaching assistant for [Prof. Wendy Janssens](https://research.vu.nl/en/persons/wendy-janssens/) and [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck)
 
@@ -119,7 +113,7 @@ Teaching & Supervising Experiences
 
 Skills
 ======
-- Computer Skills: GAMS, ArcGIS, STATA, R, Python
+- Technical Skills: GAMS, ArcGIS, Stata, R, Python
 - Languages: Chinese (Native), English (Proficient), Dutch (A2) 
 
 <br>
@@ -130,7 +124,7 @@ Awards & Grants
 
 - 07/2022-07/2025, Erasmus+ Mobility Grant-KA171, European Commission (€8,760)
 
-- 09/2021-08/2027, Government-Sponsored Oversea Education, China Scholarship Council
+- 09/2021-08/2027, Government-Sponsored Study Abroad Scholarship, China Scholarship Council
 
 - 12/2020, First-class Academic Scholarship, Renmin University of China
 
