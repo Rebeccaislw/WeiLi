@@ -14,8 +14,6 @@ author_profile: true
   </div>
 </div>
 
-<br>
-
 # Fundamentals of Microeconomics, 2026 (Ongoing)
  - **Introduction of the course**
    - Undergraduate course
