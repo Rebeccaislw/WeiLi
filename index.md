@@ -44,9 +44,9 @@ Environmental and Resource Economics, Applied Econometrics, Agricultural Economi
 
 Job Market Paper
 ======
-**Evaluating a Decade of Integrated Governance: Equity Impacts of China's Beijing–Tianjin–Hebei Coordinated Development Plan**
+**Evaluating a Decade of Integrated Governance: Equity Impacts of China's Beijing-Tianjin-Hebei Coordinated Development Plan**
 
-**Wei Li***, Philip J. Ward and Lia van Wesenbeeck
+**Wei Li***, Philip J. Ward, and Lia van Wesenbeeck
 
 <br>
 
