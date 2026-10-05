@@ -5,7 +5,7 @@ title: " "
 author_profile: true
 ---
 
-# Fundamentals of Micro-Economics, 2026 (Ongoing)
+# Fundamentals of Microeconomics, 2026 (Ongoing)
  - **Introduction of the Course**
    - Undergraduate course
    - Amsterdam University College, the Netherlands
