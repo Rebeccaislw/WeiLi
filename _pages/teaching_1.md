@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Fundamentals of Microeconomics, 2026 (Ongoing)
- - **Introduction of the Course**
+ - **Introduction of the course**
    - Undergraduate course
    - Amsterdam University College, the Netherlands
    - [Course information](https://studiegids.uva.nl/en/courses/2026/1/59495)
@@ -14,7 +14,7 @@ author_profile: true
 <br>
 
 # Advanced Macroeconomics, 2024 & 2025
-- **Introduction of the Course**
+- **Introduction of the course**
    - Undergraduate course
    - Amsterdam University College, the Netherlands
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
@@ -37,7 +37,7 @@ would facilitate understanding."
 <br>
 
 # Macroeconomics I, 2023
-- **Introduction of the Course**
+- **Introduction of the course**
    - Undergraduate course
    - Vrije Universiteit Amsterdam, the Netherlands
   - [Course information](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_MACEC#/)
@@ -45,7 +45,7 @@ would facilitate understanding."
 <br>
 
 # Economics Challenges, 2022
-- **Introduction of the Course**
+- **Introduction of the course**
    - Undergraduate course
    - Vrije Universiteit Amsterdam, the Netherlands
    - Course information: [here](https://studiegids.vu.nl/en/vakken/2022-2023/E_EBE1_EC#/)
