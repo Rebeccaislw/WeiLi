@@ -5,13 +5,13 @@ title: "About Me"
 author_profile: true
 ---
 
-I am a Ph.D. candidate in **Economics** at the School of Businiess and Economics at Vrije Uiversiteit Amsterdam.
+I am a Ph.D. candidate in **Economics** at the School of Business and Economics at Vrije Universiteit Amsterdam.
 
 My research lies at the intersection of Environmental and Resource Economics, Agricultural Economics, and Applied Econometrics, with a particular focus on the **Water-Energy-Food (WEF) nexus**. I am passionate about understanding how resource interdependencies shape sustainable development and integrated policy decisions.
 
 **I am on the 2026-2027 Job Market.**
 
-I am supervised by [Prof.Philip Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Dr.Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
+I am supervised by [Prof. Philip J. Ward](https://research.vu.nl/en/persons/philip-ward) (Institute for Environmental Studies (IVM), Vrije Universiteit Amsterdam; Deltares), and [Dr. Lia van Wesenbeeck](https://research.vu.nl/en/persons/lia-van-wesenbeeck) (School of Business and Economics (SBE), Vrije Universiteit Amsterdam; Amsterdam Centre for World Food Studies).
 
 You can download my latest CV <a href="{{ site.baseurl }}/assets/CV.pdf">here</a>.
 
@@ -73,12 +73,12 @@ Working Paper
 
 Project Experiences
 ======
-- 08/2023-09/2023, **Project**：Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
+- 08/2023-09/2023, **Project**: Comprehensive Treatment and Control Strategy of Groundwater Overexploitation
   - **Funder**: Peking university, Renmin university of China, and Ministry of Science and Technology of the People’s Republic of China
     - Coordinated with local village cadres as one of team leaders
     - Participated in the household survey of seven villages in Hebei Province, China
 
-- 01/2019-02/2021, **Project**：Short-term Forecast and Analysis of Agricultural Product Market Prices
+- 01/2019-02/2021, **Project**: Short-term Forecast and Analysis of Agricultural Product Market Prices
   - **Funder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
     - Used the time series model to forecast the major agricultural products’ price in China
     - Developed the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
