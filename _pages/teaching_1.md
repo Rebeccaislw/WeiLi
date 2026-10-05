@@ -6,13 +6,12 @@ author_profile: true
 ---
 
 <div class="teaching-award">
-  <div class="award-icon">🏆</div>
-  <div class="award-content">
-    <div class="award-label">Teaching Award</div>
-    <div class="award-title">Excellence in Teaching Award</div>
-    <div class="award-details">Vrije Universiteit Amsterdam, 2025</div>
-  </div>
+  <div class="award-heading">🏆 <strong>Teaching Award</strong></div>
+  <div class="award-title"><em>Excellence in Teaching Award</em></div>
+  <div class="award-details">Vrije Universiteit Amsterdam, 2025</div>
 </div>
+
+<br>
 
 # Fundamentals of Microeconomics, 2026 (Ongoing)
  - **Introduction of the course**
