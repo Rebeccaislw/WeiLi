@@ -22,9 +22,9 @@ Feel free to reach out via email: w.li2@vu.nl
 Education Backgrounds
 ======
 
-- 09/2021-present, Ph.D. in Economics, School of Business and Economics, Vrije Universiteit Amsterdam, the Netherlands
+- 09/2021-present, Ph.D. in Economics, School of Business and Economics, [Vrije Universiteit Amsterdam](https://vu.nl/en), the Netherlands
 
-- 09/2021-present, Research Associate, Amsterdam Centre for World Food Studies, the Netherlands
+- 09/2021-present, Research Associate, [Amsterdam Centre for World Food Studies](https://vu.nl/en/about-vu/research-institutes/amsterdam-centre-for-world-food-studies-acwfs), the Netherlands
 
 - 09/2018-07/2021, MSc in Management, School of Agriculture Economics and Rural Development, [Renmin University of China](https://en.ruc.edu.cn/), **(GPA: 3.89/4, rank 1/53)**
   - _**Outstanding graduate**_
