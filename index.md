@@ -59,7 +59,7 @@ Publications
 
 <br>
 
-Under Reiview
+Under Review
 ======
 - **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, [Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). EGUsphere (preprint). Under review at **Hydrology and Earth System Science**
 
@@ -93,7 +93,7 @@ Project Experiences
 
 <br>
 
-Conference presentations
+Conference Presentations
 ======
 - 06/2025, Paper presentation at [World Conference on Natural Resource Modeling 2025](https://resourcemodeling.org/rma-conferences/), Kathmandu, Nepal
 - 04/2025, Paper presentation at [Tinbergen Institute PhD seminar](https://tinbergen.nl/event/2025/04/04/12928/towards-an-ideal-theoretical-model-for-the-water-energy-food-nexus), Amsterdam, the Netherlands
