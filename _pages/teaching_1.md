@@ -5,8 +5,14 @@ title: " "
 author_profile: true
 ---
 
-# Teaching Award: Excellence in Teaching Award, Vrije Universiteit Amsterdam, 2025
-
+<div class="teaching-award">
+  <div class="award-icon">🏆</div>
+  <div class="award-content">
+    <div class="award-label">Teaching Award</div>
+    <div class="award-title">Excellence in Teaching Award</div>
+    <div class="award-details">Vrije Universiteit Amsterdam, 2025</div>
+  </div>
+</div>
 
 # Fundamentals of Microeconomics, 2026 (Ongoing)
  - **Introduction of the course**
@@ -21,7 +27,7 @@ author_profile: true
    - Undergraduate course
    - Amsterdam University College, the Netherlands
    - [Course information](https://studiegids.uva.nl/xmlpages/page/2024-2025-en/search-course/course/118950)
-   - Student satisfaction: **4,7/5**
+   - Student satisfaction: **4.7/5**
 
 - **Student feedback on my teaching**
    - "Very charismatic :)"
