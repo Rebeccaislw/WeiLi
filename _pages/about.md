@@ -26,7 +26,7 @@ Education Backgrounds
 
 - 09/2021-present, Research Associate, Amsterdam Centre for World Food Studies, the Netherlands
 
-- 09/2018-07/2021, MSc in Management, School of Agriculture Economics and Rural Development, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), **(GPA: 3.89/4, rank 1/53)**
+- 09/2018-07/2021, MSc in Management, School of Agricultural Economics and Rural Development, [Renmin University of China](https://www.ruc.edu.cn/cn/about/introduce.html), **(GPA: 3.89/4, rank 1/53)**
   - _**Outstanding graduate**_
   - Supervisor: [Prof. Xiaohui Tian](http://www.sard.ruc.edu.cn/szll/zzjs/qzjs/372aa1041ccd4b1b8cc829b137214115.htm)
 
@@ -54,7 +54,7 @@ Publications
 ======
 - **Wei Li***, Philip J. Ward, and Lia van Wesenbeeck (2025). A critical review of quantifying water-energy-food nexus interactions. **Renewable and Sustainable Energy Reviews**, 211, Article 115280. [https://doi.org/10.1016/j.rser.2024.115280](https://www.sciencedirect.com/science/article/pii/S1364032124010062?via%3Dihub) (Impact Factor: 16.3, CiteScore: 31.2)
 
-- Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, 2021(09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
+- Xiaohui Tian, **Wei Li**, and Rong Li*, The Environmental Effects of Agricultural Mechanization: Evidence from Agricultural Machinery Purchase Subsidy Policy, **Chinese Rural Economy (中国农村经济)**, (09):95-109. (Top 1 journal in the field of Agricultural Economics in China; The [full text](https://zgncjj.ajcass.com/magazine/show/78577?jumpnotice=201606270007) is in Chinese with an English abstract)
 
 - Lia van Wesenbeeck*, Ben Sonneveld, and **Wei Li** (2026). [Food, Water and Energy](https://link.springer.com/rwe/10.1007/978-3-031-51703-7_269-1). In: Encyclopedia of the Anthropocene. Springer, Cham.
 
@@ -62,7 +62,7 @@ Publications
 
 Under Reiview
 ======
-- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance. [EGUsphere (preprint)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). Under review at **Hydrology and Earth System Science**
+- **Wei Li***, Philip J. Ward and Lia van Wesenbeeck, Towards an ideal water-energy-food nexus model: moving beyond silos to integrated resource governance. [EGUsphere (preprint)](https://egusphere.copernicus.org/preprints/2025/egusphere-2025-4663/). Under review at **Hydrology and Earth System Sciences**
 
 <br>
 
@@ -81,15 +81,15 @@ Project Experiences
 
 - 01/2019-02/2021, **Project**：Short-term Forecast and Analysis of Agricultural Product Market Prices
   - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China
-    - Used the time series model to forecast the major agricultural products’ price in China
+    - Used time-series models to forecast prices of major agricultural products in China.
     - Developed the Self-adaptable Short-term Agricultural Prices Prediction System (SSAPP)
     - Wrote four semi-annual reports
     - The report of the first half of 2020 was **approved by the Deputy Secretary-General of the National Development and Reform Commission of China**
 
 - 02/2019-01/2020, **Project**: Evaluation of Agricultural Modernization Level of National Modern Agricultural Demonstration Zone
   - **Founder**: Ministry of Agriculture and Rural Affairs of the People’s Republic of China 
-    - Participated in household survey, enterprise interview, government discussion in Shanghai, Jiangsu province and Anhui province of China
-    - Calculated the agricultural modernization scores at county level based on 25 specific indicators covering six aspects
+    - Participated in household surveys, enterprise interviews, and meetings with government officials in Shanghai and the provinces of Jiangsu and Anhui, China.
+    - Calculated the agricultural modernization scores at the county level based on 25 specific indicators covering six aspects
     - Drafted three comprehensive evaluation reports
 
 <br>
@@ -134,7 +134,7 @@ Awards & Grants
 
 - 09/2020, Excellent Paper in the 4th Agriculture, Rural Areas and Farmers Forum, Editorial departments of China Rural Economy (中国农村经济) & China Rural Observation (中国农村观察)
 
-- 06/2018, Honor Thesis in Management, Northwest Agriculture & Forestry University, China **(awarded to top 100 theses from the whole university)**
+- 06/2018, Honor Thesis in Management, Northwest Agriculture & Forestry University, China **(ranked among the top 100 theses university-wide)**
 
 - 11/2017, National Outstanding Forestry Graduates, Chinese Society of Forestry Education & National Forestry and Grassland Administration, China **(awarded to top 40 graduates nationwide)**
 
